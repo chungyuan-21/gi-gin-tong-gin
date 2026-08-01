@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>主動式ETF 每日持股變動</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #f5f6f8;
+    --card-bg: #ffffff;
+    --text: #1a1d21;
+    --muted: #6b7280;
+    --border: #e5e7eb;
+    --up: #d1373f;
+    --down: #1a8a4c;
+    --new: #b8860b;
+    --removed: #9333ea;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #121316;
+      --card-bg: #1c1e22;
+      --text: #e8e9eb;
+      --muted: #9aa0a6;
+      --border: #2e3136;
+      --up: #ff6b6f;
+      --down: #4ade80;
+      --new: #f5c542;
+      --removed: #c084fc;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 24px;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, "Segoe UI", "Microsoft JhengHei", sans-serif;
+  }
+  h1 { font-size: 1.4rem; margin: 0 0 4px; }
+  .meta { color: var(--muted); font-size: 0.85rem; margin-bottom: 20px; }
+  .tabs { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 16px; }
+  .tab-btn {
+    padding: 6px 14px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--card-bg);
+    color: var(--text);
+    cursor: pointer;
+    font-size: 0.9rem;
+  }
+  .tab-btn.active { background: var(--text); color: var(--bg); border-color: var(--text); }
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  .card-header {
+    padding: 14px 16px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .card-header h2 { margin: 0; font-size: 1.05rem; }
+  .card-header .as-of { color: var(--muted); font-size: 0.8rem; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.88rem; }
+  th, td { padding: 8px 12px; text-align: right; white-space: nowrap; }
+  th { color: var(--muted); font-weight: 500; border-bottom: 1px solid var(--border); text-align: right; }
+  th:first-child, td:first-child { text-align: left; }
+  tbody tr:not(:last-child) { border-bottom: 1px solid var(--border); }
+  .status { font-weight: 600; }
+  .status-increase { color: var(--up); }
+  .status-decrease { color: var(--down); }
+  .status-new { color: var(--new); }
+  .status-removed { color: var(--removed); }
+  .badge {
+    display: inline-block;
+    font-size: 0.72rem;
+    padding: 1px 7px;
+    border-radius: 999px;
+    margin-left: 6px;
+    font-weight: 600;
+  }
+  .badge-new { background: color-mix(in srgb, var(--new) 20%, transparent); color: var(--new); }
+  .badge-removed { background: color-mix(in srgb, var(--removed) 20%, transparent); color: var(--removed); }
+  .empty-state { padding: 40px 16px; text-align: center; color: var(--muted); }
+  .no-change { color: var(--muted); text-align: center; padding: 24px; }
+  .table-wrap { overflow-x: auto; }
+</style>
+</head>
+<body>
+  <h1>主動式ETF 每日持股變動</h1>
+  <div class="meta" id="updated-at">載入中...</div>
+  <div class="tabs" id="tabs"></div>
+  <div id="content"></div>
+
+<script>
+async function main() {
+  const content = document.getElementById('content');
+  const updatedEl = document.getElementById('updated-at');
+  let data;
+  try {
+    const res = await fetch('data/latest.json', { cache: 'no-store' });
+    if (!res.ok) throw new Error('HTTP ' + res.status);
+    data = await res.json();
+  } catch (err) {
+    updatedEl.textContent = '';
+    content.innerHTML = '<div class="empty-state">找不到資料(data/latest.json)。請確認排程腳本已經跑過至少一次。<br>錯誤: ' + err.message + '</div>';
+    return;
+  }
+
+  updatedEl.textContent = '資料更新時間: ' + data.updatedAt;
+
+  const tabs = document.getElementById('tabs');
+  data.etfs.forEach((etf, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'tab-btn' + (i === 0 ? ' active' : '');
+    btn.textContent = etf.code;
+    btn.onclick = () => selectTab(i);
+    tabs.appendChild(btn);
+  });
+
+  function render(etf) {
+    const changed = etf.holdings.filter(h => h.status !== 'unchanged');
+    const rows = changed.map(h => {
+      const changeStr = (h.change > 0 ? '+' : '') + h.change.toLocaleString();
+      const statusLabel = {
+        increase: '增加',
+        decrease: '減少',
+        new: '新增持股',
+        removed: '剔除持股',
+      }[h.status] || h.status;
+      const badge = h.status === 'new' ? '<span class="badge badge-new">新</span>'
+                  : h.status === 'removed' ? '<span class="badge badge-removed">removed</span>' : '';
+      return `<tr>
+        <td>${h.stockName} <span style="color:var(--muted)">${h.stockCode}</span>${badge}</td>
+        <td class="status status-${h.status}">${changeStr}</td>
+        <td>${h.sharesPrev.toLocaleString()}</td>
+        <td>${h.sharesNew.toLocaleString()}</td>
+        <td>${h.weight.toFixed(2)}%</td>
+        <td class="status status-${h.status}">${statusLabel}</td>
+      </tr>`;
+    }).join('');
+
+    return `<div class="card">
+      <div class="card-header">
+        <h2>${etf.name} <span style="color:var(--muted); font-weight:400;">${etf.code}</span></h2>
+        <span class="as-of">持股日期: ${etf.asOfDate}</span>
+      </div>
+      <div class="table-wrap">
+        ${changed.length === 0
+          ? '<div class="no-change">今日持股無變動</div>'
+          : `<table>
+              <thead><tr>
+                <th>股票</th><th>股數增減</th><th>前次股數</th><th>目前股數</th><th>權重</th><th>狀態</th>
+              </tr></thead>
+              <tbody>${rows}</tbody>
+            </table>`}
+      </div>
+    </div>`;
+  }
+
+  function selectTab(i) {
+    [...tabs.children].forEach((el, idx) => el.classList.toggle('active', idx === i));
+    content.innerHTML = render(data.etfs[i]);
+  }
+
+  selectTab(0);
+}
+
+main();
+</script>
+</body>
+</html>

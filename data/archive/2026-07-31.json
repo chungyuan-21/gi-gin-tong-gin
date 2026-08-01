@@ -1,10 +1,11 @@
 {
-  "updatedAt": "2026-08-01 14:07:53",
+  "updatedAt": "2026-08-01 23:13:52",
   "etfs": [
     {
       "code": "00981A",
       "name": "主動統一台股增長",
       "asOfDate": "2026-07-31",
+      "stale": false,
       "holdings": [
         {
           "stockCode": "6147",
@@ -949,12 +950,14 @@
           "weight": 0.0,
           "status": "unchanged"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "code": "00991A",
       "name": "主動復華未來50",
       "asOfDate": "2026-07-31",
+      "stale": false,
       "holdings": [
         {
           "stockCode": "2330",
@@ -1908,7 +1911,8 @@
           "weight": 3.12,
           "status": "unchanged"
         }
-      ]
+      ],
+      "stale": true
     },
     {
       "code": "00992A",
@@ -2257,7 +2261,272 @@
           "weight": 0.03,
           "status": "unchanged"
         }
-      ]
+      ],
+      "stale": true
     }
-  ]
+  ],
+  "crossFundSignals": {
+    "coBuy": [
+      {
+        "stockCode": "2360",
+        "stockName": "致茂",
+        "count": 3,
+        "funds": [
+          {
+            "code": "00981A",
+            "status": "new",
+            "change": 348000,
+            "weight": 0.25
+          },
+          {
+            "code": "00403A",
+            "status": "increase",
+            "change": 57000,
+            "weight": 1.13
+          },
+          {
+            "code": "00991A",
+            "status": "increase",
+            "change": 40000,
+            "weight": 1.699
+          }
+        ]
+      },
+      {
+        "stockCode": "2308",
+        "stockName": "台達電",
+        "count": 3,
+        "funds": [
+          {
+            "code": "00981A",
+            "status": "increase",
+            "change": 290000,
+            "weight": 3.38
+          },
+          {
+            "code": "00991A",
+            "status": "increase",
+            "change": 200000,
+            "weight": 1.631
+          },
+          {
+            "code": "00992A",
+            "status": "new",
+            "change": 300000,
+            "weight": 1.3
+          }
+        ]
+      },
+      {
+        "stockCode": "3665",
+        "stockName": "貿聯-KY",
+        "count": 3,
+        "funds": [
+          {
+            "code": "00981A",
+            "status": "increase",
+            "change": 232000,
+            "weight": 3.74
+          },
+          {
+            "code": "00991A",
+            "status": "increase",
+            "change": 50000,
+            "weight": 1.554
+          },
+          {
+            "code": "00992A",
+            "status": "increase",
+            "change": 36000,
+            "weight": 5.49
+          }
+        ]
+      },
+      {
+        "stockCode": "3017",
+        "stockName": "奇鋐",
+        "count": 3,
+        "funds": [
+          {
+            "code": "00981A",
+            "status": "increase",
+            "change": 170000,
+            "weight": 4.56
+          },
+          {
+            "code": "00991A",
+            "status": "increase",
+            "change": 100000,
+            "weight": 2.682
+          },
+          {
+            "code": "00982A",
+            "status": "new",
+            "change": 407000,
+            "weight": 2.03
+          }
+        ]
+      },
+      {
+        "stockCode": "6669",
+        "stockName": "緯穎",
+        "count": 3,
+        "funds": [
+          {
+            "code": "00981A",
+            "status": "increase",
+            "change": 115000,
+            "weight": 4.8
+          },
+          {
+            "code": "00991A",
+            "status": "increase",
+            "change": 70000,
+            "weight": 3.24
+          },
+          {
+            "code": "00982A",
+            "status": "increase",
+            "change": 3000,
+            "weight": 4.95
+          }
+        ]
+      },
+      {
+        "stockCode": "3653",
+        "stockName": "健策",
+        "count": 2,
+        "funds": [
+          {
+            "code": "00981A",
+            "status": "increase",
+            "change": 78000,
+            "weight": 2.84
+          },
+          {
+            "code": "00991A",
+            "status": "increase",
+            "change": 99000,
+            "weight": 0.398
+          }
+        ]
+      },
+      {
+        "stockCode": "2330",
+        "stockName": "台積電",
+        "count": 2,
+        "funds": [
+          {
+            "code": "00403A",
+            "status": "increase",
+            "change": 680000,
+            "weight": 18.45
+          },
+          {
+            "code": "00991A",
+            "status": "increase",
+            "change": 1400000,
+            "weight": 15.139
+          }
+        ]
+      },
+      {
+        "stockCode": "6239",
+        "stockName": "力成",
+        "count": 2,
+        "funds": [
+          {
+            "code": "00403A",
+            "status": "increase",
+            "change": 426000,
+            "weight": 0.43
+          },
+          {
+            "code": "00982A",
+            "status": "new",
+            "change": 710000,
+            "weight": 0.36
+          }
+        ]
+      },
+      {
+        "stockCode": "6488",
+        "stockName": "環球晶",
+        "count": 2,
+        "funds": [
+          {
+            "code": "00403A",
+            "status": "increase",
+            "change": 61000,
+            "weight": 1.24
+          },
+          {
+            "code": "00982A",
+            "status": "new",
+            "change": 1148000,
+            "weight": 2.11
+          }
+        ]
+      },
+      {
+        "stockCode": "5274",
+        "stockName": "信驊科技",
+        "count": 2,
+        "funds": [
+          {
+            "code": "00991A",
+            "status": "increase",
+            "change": 5000,
+            "weight": 1.688
+          },
+          {
+            "code": "00982A",
+            "status": "new",
+            "change": 30900,
+            "weight": 0.96
+          }
+        ]
+      },
+      {
+        "stockCode": "3231",
+        "stockName": "緯創",
+        "count": 2,
+        "funds": [
+          {
+            "code": "00982A",
+            "status": "new",
+            "change": 300000,
+            "weight": 0.11
+          },
+          {
+            "code": "00992A",
+            "status": "increase",
+            "change": 2000000,
+            "weight": 3.56
+          }
+        ]
+      },
+      {
+        "stockCode": "3008",
+        "stockName": "大立光",
+        "count": 2,
+        "funds": [
+          {
+            "code": "00982A",
+            "status": "new",
+            "change": 251000,
+            "weight": 2.18
+          },
+          {
+            "code": "00992A",
+            "status": "increase",
+            "change": 100000,
+            "weight": 5.54
+          }
+        ]
+      }
+    ],
+    "coSell": [],
+    "coNew": []
+  }
 }

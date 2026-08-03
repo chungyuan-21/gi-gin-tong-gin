@@ -1,149 +1,149 @@
 {
-  "asOfDate": "2026-07-31",
+  "asOfDate": "2026-08-03",
   "holdings": [
     {
       "stockCode": "2330",
       "stockName": "台積電",
       "shares": 12680000.0,
-      "weight": 18.45
+      "weight": 17.45
     },
     {
       "stockCode": "2303",
       "stockName": "聯電",
-      "shares": 76000000.0,
-      "weight": 5.52
+      "shares": 77800000.0,
+      "weight": 5.33
     },
     {
       "stockCode": "3017",
       "stockName": "奇鋐",
       "shares": 3450000.0,
-      "weight": 4.8
+      "weight": 5.11
     },
     {
       "stockCode": "2383",
       "stockName": "台光電",
-      "shares": 1405000.0,
-      "weight": 4.0
+      "shares": 1495000.0,
+      "weight": 4.32
     },
     {
       "stockCode": "2454",
       "stockName": "聯發科",
       "shares": 1795000.0,
-      "weight": 3.83
+      "weight": 4.08
     },
     {
       "stockCode": "3037",
       "stockName": "欣興",
       "shares": 7600000.0,
-      "weight": 3.59
+      "weight": 3.82
     },
     {
       "stockCode": "6223",
       "stockName": "旺矽",
       "shares": 1000000.0,
-      "weight": 3.17
+      "weight": 3.37
     },
     {
       "stockCode": "2344",
       "stockName": "華邦電",
       "shares": 40000000.0,
-      "weight": 3.12
+      "weight": 3.32
+    },
+    {
+      "stockCode": "2345",
+      "stockName": "智邦",
+      "shares": 2307000.0,
+      "weight": 3.13
     },
     {
       "stockCode": "2308",
       "stockName": "台達電",
       "shares": 3040000.0,
-      "weight": 2.99
-    },
-    {
-      "stockCode": "2345",
-      "stockName": "智邦",
-      "shares": 2290000.0,
-      "weight": 2.92
+      "weight": 2.79
     },
     {
       "stockCode": "3711",
       "stockName": "日月光投控",
       "shares": 6400000.0,
-      "weight": 2.13
+      "weight": 2.27
     },
     {
       "stockCode": "3653",
       "stockName": "健策",
-      "shares": 990000.0,
-      "weight": 2.05
+      "shares": 1030000.0,
+      "weight": 2.25
     },
     {
       "stockCode": "6669",
       "stockName": "緯穎",
       "shares": 600000.0,
-      "weight": 1.94
+      "weight": 2.06
     },
     {
       "stockCode": "2327",
       "stockName": "國巨*",
       "shares": 6000000.0,
-      "weight": 1.81
+      "weight": 1.92
     },
     {
       "stockCode": "4958",
       "stockName": "臻鼎-KY",
       "shares": 6154000.0,
-      "weight": 1.53
+      "weight": 1.51
+    },
+    {
+      "stockCode": "5274",
+      "stockName": "信驊",
+      "shares": 158500.0,
+      "weight": 1.47
     },
     {
       "stockCode": "3533",
       "stockName": "嘉澤",
       "shares": 1240000.0,
-      "weight": 1.38
-    },
-    {
-      "stockCode": "5274",
-      "stockName": "信驊",
-      "shares": 144500.0,
-      "weight": 1.26
+      "weight": 1.44
     },
     {
       "stockCode": "6488",
       "stockName": "環球晶",
-      "shares": 2411000.0,
-      "weight": 1.24
+      "shares": 2600000.0,
+      "weight": 1.31
     },
     {
       "stockCode": "3189",
       "stockName": "景碩",
       "shares": 3217000.0,
-      "weight": 1.23
+      "weight": 1.3
     },
     {
       "stockCode": "3443",
       "stockName": "創意",
       "shares": 510000.0,
-      "weight": 1.16
+      "weight": 1.24
     },
     {
-      "stockCode": "2360",
-      "stockName": "致茂",
-      "shares": 897000.0,
-      "weight": 1.13
+      "stockCode": "3665",
+      "stockName": "貿聯-KY",
+      "shares": 1010000.0,
+      "weight": 1.23
     },
     {
       "stockCode": "6274",
       "stockName": "台燿",
       "shares": 1680000.0,
-      "weight": 1.12
-    },
-    {
-      "stockCode": "3665",
-      "stockName": "貿聯-KY",
-      "shares": 880000.0,
-      "weight": 1.11
+      "weight": 1.19
     },
     {
       "stockCode": "7769",
       "stockName": "鴻勁",
       "shares": 300000.0,
-      "weight": 1.11
+      "weight": 1.12
+    },
+    {
+      "stockCode": "2360",
+      "stockName": "致茂",
+      "shares": 897000.0,
+      "weight": 1.02
     },
     {
       "stockCode": "8046",
@@ -155,25 +155,37 @@
       "stockCode": "8996",
       "stockName": "高力",
       "shares": 1600000.0,
-      "weight": 0.82
+      "weight": 0.87
     },
     {
       "stockCode": "6805",
       "stockName": "富世達",
       "shares": 700000.0,
-      "weight": 0.57
+      "weight": 0.6
     },
     {
-      "stockCode": "2317",
-      "stockName": "鴻海",
-      "shares": 3200000.0,
-      "weight": 0.48
+      "stockCode": "1560",
+      "stockName": "中砂",
+      "shares": 1350000.0,
+      "weight": 0.53
+    },
+    {
+      "stockCode": "6239",
+      "stockName": "力成",
+      "shares": 3740000.0,
+      "weight": 0.52
     },
     {
       "stockCode": "2337",
       "stockName": "旺宏",
       "shares": 7498000.0,
-      "weight": 0.45
+      "weight": 0.48
+    },
+    {
+      "stockCode": "2317",
+      "stockName": "鴻海",
+      "shares": 3200000.0,
+      "weight": 0.47
     },
     {
       "stockCode": "1303",
@@ -182,34 +194,22 @@
       "weight": 0.44
     },
     {
-      "stockCode": "1560",
-      "stockName": "中砂",
-      "shares": 1113000.0,
-      "weight": 0.43
-    },
-    {
-      "stockCode": "6239",
-      "stockName": "力成",
-      "shares": 3026000.0,
-      "weight": 0.43
+      "stockCode": "3008",
+      "stockName": "大立光",
+      "shares": 170000.0,
+      "weight": 0.39
     },
     {
       "stockCode": "3211",
       "stockName": "順達",
       "shares": 2000000.0,
-      "weight": 0.35
+      "weight": 0.36
     },
     {
       "stockCode": "3583",
       "stockName": "辛耘",
       "shares": 900000.0,
       "weight": 0.35
-    },
-    {
-      "stockCode": "3008",
-      "stockName": "大立光",
-      "shares": 140000.0,
-      "weight": 0.34
     },
     {
       "stockCode": "4966",
@@ -221,31 +221,25 @@
       "stockCode": "8358",
       "stockName": "金居",
       "shares": 1312000.0,
-      "weight": 0.23
-    },
-    {
-      "stockCode": "6515",
-      "stockName": "穎崴",
-      "shares": 59000.0,
-      "weight": 0.21
+      "weight": 0.25
     },
     {
       "stockCode": "2049",
       "stockName": "上銀",
       "shares": 1010000.0,
-      "weight": 0.18
+      "weight": 0.19
     },
     {
       "stockCode": "6442",
       "stockName": "光聖",
       "shares": 225000.0,
-      "weight": 0.16
+      "weight": 0.17
     },
     {
       "stockCode": "2404",
       "stockName": "漢唐",
-      "shares": 220000.0,
-      "weight": 0.15
+      "shares": 250000.0,
+      "weight": 0.16
     },
     {
       "stockCode": "6415",
@@ -254,27 +248,33 @@
       "weight": 0.15
     },
     {
+      "stockCode": "6515",
+      "stockName": "穎崴",
+      "shares": 29000.0,
+      "weight": 0.11
+    },
+    {
       "stockCode": "3264",
       "stockName": "欣銓",
       "shares": 700000.0,
-      "weight": 0.07
+      "weight": 0.08
     },
     {
       "stockCode": "3450",
       "stockName": "聯鈞",
-      "shares": 300000.0,
+      "shares": 337000.0,
+      "weight": 0.08
+    },
+    {
+      "stockCode": "2481",
+      "stockName": "強茂",
+      "shares": 869000.0,
       "weight": 0.07
     },
     {
       "stockCode": "2455",
       "stockName": "全新",
       "shares": 336000.0,
-      "weight": 0.06
-    },
-    {
-      "stockCode": "2481",
-      "stockName": "強茂",
-      "shares": 869000.0,
       "weight": 0.06
     },
     {
@@ -286,8 +286,8 @@
     {
       "stockCode": "1717",
       "stockName": "長興",
-      "shares": 200000.0,
-      "weight": 0.01
+      "shares": 500000.0,
+      "weight": 0.02
     },
     {
       "stockCode": "8299",

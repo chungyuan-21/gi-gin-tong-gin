@@ -1,173 +1,155 @@
 {
-  "asOfDate": "2026-08-03",
+  "asOfDate": "2026-08-04",
   "holdings": [
     {
       "stockCode": "2330",
       "stockName": "台灣積體",
       "shares": 5400000.0,
-      "weight": 14.11
+      "weight": 14.558
     },
     {
       "stockCode": "2383",
       "stockName": "台光電子",
-      "shares": 1380000.0,
-      "weight": 7.577
+      "shares": 1430000.0,
+      "weight": 8.541
     },
     {
       "stockCode": "2408",
       "stockName": "南亞科技",
-      "shares": 13000000.0,
-      "weight": 5.683
-    },
-    {
-      "stockCode": "2454",
-      "stockName": "聯發科技",
-      "shares": 1100000.0,
-      "weight": 4.742
-    },
-    {
-      "stockCode": "2327",
-      "stockName": "國巨股份",
-      "shares": 7500000.0,
-      "weight": 4.564
-    },
-    {
-      "stockCode": "2345",
-      "stockName": "智邦科技",
-      "shares": 1760000.0,
-      "weight": 4.531
+      "shares": 13500000.0,
+      "weight": 6.84
     },
     {
       "stockCode": "2059",
       "stockName": "川湖科技",
-      "shares": 475000.0,
-      "weight": 4.522
+      "shares": 500000.0,
+      "weight": 5.517
     },
     {
       "stockCode": "3037",
       "stockName": "欣興電子",
-      "shares": 4600000.0,
-      "weight": 4.387
+      "shares": 5000000.0,
+      "weight": 5.369
+    },
+    {
+      "stockCode": "2454",
+      "stockName": "聯發科技",
+      "shares": 1150000.0,
+      "weight": 5.165
+    },
+    {
+      "stockCode": "2327",
+      "stockName": "國巨股份",
+      "shares": 7700000.0,
+      "weight": 5.065
     },
     {
       "stockCode": "6223",
       "stockName": "旺矽科技",
-      "shares": 685000.0,
-      "weight": 4.384
+      "shares": 720000.0,
+      "weight": 4.936
+    },
+    {
+      "stockCode": "2345",
+      "stockName": "智邦科技",
+      "shares": 1800000.0,
+      "weight": 4.853
     },
     {
       "stockCode": "6669",
       "stockName": "緯穎科技",
-      "shares": 520000.0,
-      "weight": 3.397
+      "shares": 570000.0,
+      "weight": 4.11
     },
     {
       "stockCode": "8046",
       "stockName": "南亞電路",
       "shares": 3000000.0,
-      "weight": 3.152
+      "weight": 3.643
     },
     {
       "stockCode": "3017",
       "stockName": "奇鋐科技",
-      "shares": 1100000.0,
-      "weight": 3.093
+      "shares": 1150000.0,
+      "weight": 3.475
     },
     {
       "stockCode": "6274",
       "stockName": "台燿科技",
       "shares": 2150000.0,
-      "weight": 2.892
+      "weight": 3.348
     },
     {
       "stockCode": "3711",
       "stockName": "日月光投",
-      "shares": 4250000.0,
-      "weight": 2.858
+      "shares": 4600000.0,
+      "weight": 3.127
     },
     {
       "stockCode": "7769",
       "stockName": "鴻勁精密",
       "shares": 400000.0,
-      "weight": 2.833
+      "weight": 2.877
     },
     {
       "stockCode": "3189",
       "stockName": "景碩科技",
       "shares": 3200000.0,
-      "weight": 2.463
+      "weight": 2.852
     },
     {
       "stockCode": "8299",
       "stockName": "群聯電子",
-      "shares": 1240000.0,
-      "weight": 2.406
+      "shares": 1300000.0,
+      "weight": 2.749
     },
     {
       "stockCode": "5274",
       "stockName": "信驊科技",
-      "shares": 105500.0,
-      "weight": 1.858
+      "shares": 120500.0,
+      "weight": 2.17
     },
     {
       "stockCode": "3665",
       "stockName": "貿聯-KY",
       "shares": 700000.0,
-      "weight": 1.617
+      "weight": 1.871
     },
     {
-      "stockCode": "2360",
-      "stockName": "致茂電子",
-      "shares": 700000.0,
-      "weight": 1.513
-    },
-    {
-      "stockCode": "2308",
-      "stockName": "台達電子",
-      "shares": 860000.0,
-      "weight": 1.498
+      "stockCode": "3231",
+      "stockName": "緯創資通",
+      "shares": 8000000.0,
+      "weight": 1.813
     },
     {
       "stockCode": "3026",
       "stockName": "禾伸堂企",
       "shares": 2700000.0,
-      "weight": 1.368
-    },
-    {
-      "stockCode": "3231",
-      "stockName": "緯創資通",
-      "shares": 5000000.0,
-      "weight": 1.025
+      "weight": 1.563
     },
     {
       "stockCode": "3653",
       "stockName": "健策精密",
-      "shares": 130000.0,
-      "weight": 0.54
+      "shares": 260000.0,
+      "weight": 1.252
     },
     {
-      "stockCode": "2404",
-      "stockName": "漢唐集成",
-      "shares": 400000.0,
-      "weight": 0.487
+      "stockCode": "2885",
+      "stockName": "元大金融",
+      "shares": 6100000.0,
+      "weight": 0.489
     },
     {
       "stockCode": "2881",
       "stockName": "富邦金融",
       "shares": 3200000.0,
-      "weight": 0.457
-    },
-    {
-      "stockCode": "2885",
-      "stockName": "元大金融",
-      "shares": 3200000.0,
-      "weight": 0.24
+      "weight": 0.478
     },
     {
       "stockCode": "3008",
       "stockName": "大立光電",
       "shares": 1000.0,
-      "weight": 0.004
+      "weight": 0.005
     },
     {
       "stockCode": "2382",
@@ -182,15 +164,33 @@
       "weight": 0.003
     },
     {
+      "stockCode": "2360",
+      "stockName": "致茂電子",
+      "shares": 1000.0,
+      "weight": 0.002
+    },
+    {
       "stockCode": "2603",
       "stockName": "長榮海運",
       "shares": 9000.0,
       "weight": 0.002
     },
     {
+      "stockCode": "2308",
+      "stockName": "台達電子",
+      "shares": 1000.0,
+      "weight": 0.002
+    },
+    {
       "stockCode": "5347",
       "stockName": "世界先進",
       "shares": 9000.0,
+      "weight": 0.002
+    },
+    {
+      "stockCode": "2404",
+      "stockName": "漢唐集成",
+      "shares": 1000.0,
       "weight": 0.001
     },
     {
@@ -230,26 +230,26 @@
       "weight": 0.0
     },
     {
-      "stockCode": "3044",
-      "stockName": "健鼎科技",
-      "shares": 1000.0,
-      "weight": 0.0
-    },
-    {
       "stockCode": "2449",
       "stockName": "京元電子",
       "shares": 1450.0,
       "weight": 0.0
     },
     {
-      "stockCode": "2887",
-      "stockName": "台新新光",
+      "stockCode": "2890",
+      "stockName": "永豐金融",
       "shares": 9000.0,
       "weight": 0.0
     },
     {
-      "stockCode": "2890",
-      "stockName": "永豐金融",
+      "stockCode": "3044",
+      "stockName": "健鼎科技",
+      "shares": 1000.0,
+      "weight": 0.0
+    },
+    {
+      "stockCode": "2887",
+      "stockName": "台新新光",
       "shares": 9000.0,
       "weight": 0.0
     },

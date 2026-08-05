@@ -229,8 +229,15 @@ def save_snapshot(code: str, as_of: str, holdings: list):
     path.write_text(json.dumps({"asOfDate": as_of, "holdings": holdings}, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-def fetch_etf(cfg: dict) -> dict:
+def fetch_etf(cfg: dict, published_entry: dict = None) -> dict:
     current_holdings, as_of = FETCHERS[cfg["source"]](cfg["param"])
+
+    # 官網資料還沒進到新的交易日(例如備援排程在半夜跑,抓到的還是同一天的資料)。
+    # 這種情況下今天已經公布過同一天的正確結果了,直接沿用,不要重新跟快照比對
+    # (不然會變成「今天跟今天自己比」,把原本正確的變動洗成 0)。
+    if published_entry and not published_entry.get("stale") and published_entry.get("asOfDate") == as_of:
+        return published_entry
+
     snapshot = load_snapshot(cfg["code"])
 
     if snapshot is None:
@@ -271,7 +278,7 @@ def main():
         if i > 0:
             time.sleep(3)
         try:
-            results.append(fetch_etf(cfg))
+            results.append(fetch_etf(cfg, previous_etfs.get(cfg["code"])))
         except Exception as e:
             print(f"WARN: failed to fetch {cfg['code']}, will reuse previous data if available: {e}")
             fallback = previous_etfs.get(cfg["code"])

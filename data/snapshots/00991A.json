@@ -1,137 +1,137 @@
 {
-  "asOfDate": "2026-08-17",
+  "asOfDate": "2026-08-18",
   "holdings": [
     {
       "stockCode": "2330",
       "stockName": "台灣積體",
       "shares": 5000000.0,
-      "weight": 12.994
+      "weight": 13.251
     },
     {
       "stockCode": "2383",
       "stockName": "台光電子",
       "shares": 1430000.0,
-      "weight": 9.833
+      "weight": 9.881
     },
     {
       "stockCode": "2408",
       "stockName": "南亞科技",
       "shares": 14000000.0,
-      "weight": 7.944
+      "weight": 8.029
     },
     {
       "stockCode": "2059",
       "stockName": "川湖科技",
       "shares": 500000.0,
-      "weight": 7.444
+      "weight": 8.001
     },
     {
       "stockCode": "3037",
       "stockName": "欣興電子",
       "shares": 5000000.0,
-      "weight": 6.064
+      "weight": 6.375
     },
     {
       "stockCode": "2327",
       "stockName": "國巨股份",
       "shares": 7700000.0,
-      "weight": 5.069
+      "weight": 4.939
     },
     {
       "stockCode": "2454",
       "stockName": "聯發科技",
-      "shares": 1150000.0,
-      "weight": 5.043
-    },
-    {
-      "stockCode": "6223",
-      "stockName": "旺矽科技",
-      "shares": 720000.0,
-      "weight": 4.522
+      "shares": 1100000.0,
+      "weight": 4.759
     },
     {
       "stockCode": "2345",
       "stockName": "智邦科技",
       "shares": 1800000.0,
-      "weight": 4.463
+      "weight": 4.46
     },
     {
       "stockCode": "6669",
       "stockName": "緯穎科技",
       "shares": 600000.0,
-      "weight": 4.301
+      "weight": 4.276
     },
     {
       "stockCode": "8046",
       "stockName": "南亞電路",
       "shares": 3000000.0,
-      "weight": 4.207
+      "weight": 4.159
     },
     {
       "stockCode": "3017",
       "stockName": "奇鋐科技",
       "shares": 1200000.0,
-      "weight": 4.093
+      "weight": 4.056
     },
     {
       "stockCode": "6274",
       "stockName": "台燿科技",
       "shares": 2300000.0,
-      "weight": 3.985
+      "weight": 3.957
+    },
+    {
+      "stockCode": "6223",
+      "stockName": "旺矽科技",
+      "shares": 660000.0,
+      "weight": 3.873
     },
     {
       "stockCode": "3189",
       "stockName": "景碩科技",
       "shares": 3600000.0,
-      "weight": 3.528
+      "weight": 3.468
     },
     {
       "stockCode": "7769",
       "stockName": "鴻勁精密",
       "shares": 400000.0,
-      "weight": 2.924
-    },
-    {
-      "stockCode": "8299",
-      "stockName": "群聯電子",
-      "shares": 1000000.0,
-      "weight": 2.258
+      "weight": 2.906
     },
     {
       "stockCode": "5274",
       "stockName": "信驊科技",
       "shares": 120500.0,
-      "weight": 2.221
+      "weight": 2.289
+    },
+    {
+      "stockCode": "8299",
+      "stockName": "群聯電子",
+      "shares": 1000000.0,
+      "weight": 2.227
+    },
+    {
+      "stockCode": "3081",
+      "stockName": "聯亞光電",
+      "shares": 660000.0,
+      "weight": 2.15
     },
     {
       "stockCode": "3026",
       "stockName": "禾伸堂企",
       "shares": 2700000.0,
-      "weight": 2.014
+      "weight": 2.008
     },
     {
       "stockCode": "3711",
       "stockName": "日月光投",
       "shares": 2900000.0,
-      "weight": 1.931
-    },
-    {
-      "stockCode": "3081",
-      "stockName": "聯亞光電",
-      "shares": 580000.0,
-      "weight": 1.752
+      "weight": 1.934
     },
     {
       "stockCode": "3653",
       "stockName": "健策精密",
       "shares": 230000.0,
-      "weight": 1.33
+      "weight": 1.319
     },
     {
       "stockCode": "3008",
       "stockName": "大立光電",
       "shares": 1000.0,
-      "weight": 0.005
+      "weight": 0.006
     },
     {
       "stockCode": "2382",
@@ -214,7 +214,7 @@
     {
       "stockCode": "2885",
       "stockName": "元大金融",
-      "shares": 9000.0,
+      "shares": 9360.0,
       "weight": 0.001
     },
     {
@@ -228,6 +228,12 @@
       "stockName": "健鼎科技",
       "shares": 1000.0,
       "weight": 0.001
+    },
+    {
+      "stockCode": "2880",
+      "stockName": "華南金融",
+      "shares": 9090.0,
+      "weight": 0.0
     },
     {
       "stockCode": "2886",
@@ -257,12 +263,6 @@
       "stockCode": "2884",
       "stockName": "玉山金融",
       "shares": 9000.0,
-      "weight": 0.0
-    },
-    {
-      "stockCode": "2880",
-      "stockName": "華南金融",
-      "shares": 9090.0,
       "weight": 0.0
     },
     {

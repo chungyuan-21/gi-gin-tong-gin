@@ -1,95 +1,95 @@
 {
-  "asOfDate": "2026-09-10",
+  "asOfDate": "2026-09-11",
   "holdings": [
     {
       "stockCode": "2330",
       "stockName": "台積電",
       "shares": 11864000.0,
-      "weight": 10.24
+      "weight": 10.27
     },
     {
       "stockCode": "2383",
       "stockName": "台光電",
       "shares": 4750000.0,
-      "weight": 8.99
+      "weight": 9.16
     },
     {
       "stockCode": "2454",
       "stockName": "聯發科",
       "shares": 5186000.0,
-      "weight": 8.62
+      "weight": 8.54
     },
     {
       "stockCode": "3017",
       "stockName": "奇鋐",
       "shares": 5949000.0,
-      "weight": 7.25
+      "weight": 7.2
     },
     {
       "stockCode": "3037",
       "stockName": "欣興",
       "shares": 20300000.0,
-      "weight": 7.11
+      "weight": 7.13
     },
     {
       "stockCode": "6669",
       "stockName": "緯穎",
       "shares": 6490561.0,
-      "weight": 5.36
-    },
-    {
-      "stockCode": "3653",
-      "stockName": "健策",
-      "shares": 2477000.0,
-      "weight": 5.05
+      "weight": 5.39
     },
     {
       "stockCode": "6223",
       "stockName": "旺矽",
       "shares": 2546000.0,
-      "weight": 5.04
+      "weight": 5.14
+    },
+    {
+      "stockCode": "3653",
+      "stockName": "健策",
+      "shares": 2477000.0,
+      "weight": 5.13
     },
     {
       "stockCode": "2327",
       "stockName": "國巨*",
       "shares": 24987000.0,
-      "weight": 5.03
+      "weight": 4.88
     },
     {
       "stockCode": "2303",
       "stockName": "聯電",
       "shares": 89118000.0,
-      "weight": 4.47
+      "weight": 4.5
     },
     {
       "stockCode": "2345",
       "stockName": "智邦",
       "shares": 6464000.0,
-      "weight": 4.47
+      "weight": 4.38
     },
     {
       "stockCode": "2308",
       "stockName": "台達電",
       "shares": 7240000.0,
-      "weight": 4.27
+      "weight": 4.21
     },
     {
       "stockCode": "3711",
       "stockName": "日月光投控",
       "shares": 16811000.0,
-      "weight": 3.85
+      "weight": 3.73
     },
     {
       "stockCode": "8046",
       "stockName": "南電",
       "shares": 9426000.0,
-      "weight": 3.55
+      "weight": 3.66
     },
     {
       "stockCode": "3665",
       "stockName": "貿聯-KY",
       "shares": 4280848.0,
-      "weight": 2.91
+      "weight": 2.88
     },
     {
       "stockCode": "6274",
@@ -98,22 +98,22 @@
       "weight": 2.65
     },
     {
-      "stockCode": "5274",
-      "stockName": "信驊",
-      "shares": 207900.0,
-      "weight": 1.37
-    },
-    {
       "stockCode": "6805",
       "stockName": "富世達",
       "shares": 1731000.0,
-      "weight": 1.33
+      "weight": 1.34
+    },
+    {
+      "stockCode": "5274",
+      "stockName": "信驊",
+      "shares": 207900.0,
+      "weight": 1.34
     },
     {
       "stockCode": "2449",
       "stockName": "京元電子",
       "shares": 12818450.0,
-      "weight": 1.23
+      "weight": 1.21
     },
     {
       "stockCode": "3443",
@@ -125,7 +125,7 @@
       "stockCode": "6510",
       "stockName": "精測",
       "shares": 637000.0,
-      "weight": 0.82
+      "weight": 0.8
     },
     {
       "stockCode": "8210",
@@ -137,7 +137,7 @@
       "stockCode": "4958",
       "stockName": "臻鼎-KY",
       "shares": 2712000.0,
-      "weight": 0.47
+      "weight": 0.48
     },
     {
       "stockCode": "3264",
@@ -149,7 +149,7 @@
       "stockCode": "8996",
       "stockName": "高力",
       "shares": 700000.0,
-      "weight": 0.32
+      "weight": 0.33
     },
     {
       "stockCode": "6515",
@@ -179,7 +179,7 @@
       "stockCode": "3376",
       "stockName": "新日興",
       "shares": 1740000.0,
-      "weight": 0.12
+      "weight": 0.11
     },
     {
       "stockCode": "2368",
@@ -188,16 +188,16 @@
       "weight": 0.08
     },
     {
+      "stockCode": "2002",
+      "stockName": "中鋼",
+      "shares": 5163000.0,
+      "weight": 0.04
+    },
+    {
       "stockCode": "2313",
       "stockName": "華通",
       "shares": 501000.0,
       "weight": 0.04
-    },
-    {
-      "stockCode": "2002",
-      "stockName": "中鋼",
-      "shares": 5163000.0,
-      "weight": 0.03
     },
     {
       "stockCode": "8358",

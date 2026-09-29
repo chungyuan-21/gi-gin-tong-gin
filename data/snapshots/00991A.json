@@ -1,131 +1,131 @@
 {
-  "asOfDate": "2026-09-24",
+  "asOfDate": "2026-09-29",
   "holdings": [
     {
       "stockCode": "2330",
       "stockName": "台灣積體",
-      "shares": 3800000.0,
-      "weight": 11.92
+      "shares": 4000000.0,
+      "weight": 12.781
     },
     {
       "stockCode": "2383",
       "stockName": "台光電子",
       "shares": 1350000.0,
-      "weight": 8.641
+      "weight": 8.575
     },
     {
       "stockCode": "2408",
       "stockName": "南亞科技",
       "shares": 13000000.0,
-      "weight": 8.288
+      "weight": 8.492
     },
     {
       "stockCode": "3037",
       "stockName": "欣興電子",
-      "shares": 5100000.0,
-      "weight": 7.66
+      "shares": 5200000.0,
+      "weight": 7.821
     },
     {
       "stockCode": "2059",
       "stockName": "川湖科技",
       "shares": 480000.0,
-      "weight": 7.513
+      "weight": 7.507
     },
     {
       "stockCode": "2454",
       "stockName": "聯發科技",
-      "shares": 1080000.0,
-      "weight": 7.234
+      "shares": 1130000.0,
+      "weight": 7.163
+    },
+    {
+      "stockCode": "8046",
+      "stockName": "南亞電路",
+      "shares": 3400000.0,
+      "weight": 5.574
+    },
+    {
+      "stockCode": "3189",
+      "stockName": "景碩科技",
+      "shares": 4500000.0,
+      "weight": 5.548
     },
     {
       "stockCode": "3017",
       "stockName": "奇鋐科技",
       "shares": 1250000.0,
-      "weight": 5.632
-    },
-    {
-      "stockCode": "3189",
-      "stockName": "景碩科技",
-      "shares": 4400000.0,
-      "weight": 5.365
-    },
-    {
-      "stockCode": "8046",
-      "stockName": "南亞電路",
-      "shares": 3300000.0,
-      "weight": 5.186
+      "weight": 5.487
     },
     {
       "stockCode": "2327",
       "stockName": "國巨股份",
-      "shares": 6700000.0,
-      "weight": 4.925
+      "shares": 6000000.0,
+      "weight": 4.245
     },
     {
       "stockCode": "5274",
       "stockName": "信驊科技",
       "shares": 140500.0,
-      "weight": 3.532
+      "weight": 3.518
     },
     {
       "stockCode": "6669",
       "stockName": "緯穎科技",
       "shares": 1150020.0,
-      "weight": 3.083
+      "weight": 3.118
     },
     {
       "stockCode": "3081",
       "stockName": "聯亞光電",
       "shares": 900000.0,
-      "weight": 3.08
+      "weight": 3.079
     },
     {
       "stockCode": "3026",
       "stockName": "禾伸堂企",
       "shares": 2700000.0,
-      "weight": 2.772
+      "weight": 2.775
     },
     {
       "stockCode": "3653",
       "stockName": "健策精密",
       "shares": 290000.0,
-      "weight": 2.544
+      "weight": 2.581
+    },
+    {
+      "stockCode": "1303",
+      "stockName": "南亞塑膠",
+      "shares": 7000000.0,
+      "weight": 2.232
     },
     {
       "stockCode": "2308",
       "stockName": "台達電子",
       "shares": 871000.0,
-      "weight": 2.109
+      "weight": 2.063
     },
     {
       "stockCode": "2303",
       "stockName": "聯華電子",
       "shares": 10400000.0,
-      "weight": 2.03
-    },
-    {
-      "stockCode": "1303",
-      "stockName": "南亞塑膠",
-      "shares": 6700000.0,
-      "weight": 2.021
+      "weight": 2.061
     },
     {
       "stockCode": "3711",
       "stockName": "日月光投",
       "shares": 2030000.0,
-      "weight": 1.798
+      "weight": 1.8
     },
     {
       "stockCode": "2345",
       "stockName": "智邦科技",
-      "shares": 740000.0,
-      "weight": 1.777
+      "shares": 430000.0,
+      "weight": 1.005
     },
     {
       "stockCode": "6223",
       "stockName": "旺矽科技",
-      "shares": 250000.0,
-      "weight": 1.716
+      "shares": 150000.0,
+      "weight": 1.004
     },
     {
       "stockCode": "3008",
@@ -146,12 +146,6 @@
       "weight": 0.004
     },
     {
-      "stockCode": "2360",
-      "stockName": "致茂電子",
-      "shares": 1000.0,
-      "weight": 0.003
-    },
-    {
       "stockCode": "3665",
       "stockName": "貿聯-KY",
       "shares": 1000.0,
@@ -161,6 +155,12 @@
       "stockCode": "2317",
       "stockName": "鴻海精密",
       "shares": 9000.0,
+      "weight": 0.003
+    },
+    {
+      "stockCode": "2360",
+      "stockName": "致茂電子",
+      "shares": 1000.0,
       "weight": 0.003
     },
     {

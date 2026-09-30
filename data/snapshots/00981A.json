@@ -1,107 +1,107 @@
 {
-  "asOfDate": "2026-09-29",
+  "asOfDate": "2026-09-30",
   "holdings": [
     {
       "stockCode": "2330",
       "stockName": "台積電",
       "shares": 11464000.0,
-      "weight": 10.0
+      "weight": 9.97
     },
     {
       "stockCode": "2454",
       "stockName": "聯發科",
       "shares": 5086000.0,
-      "weight": 8.8
+      "weight": 8.77
     },
     {
       "stockCode": "3037",
       "stockName": "欣興",
       "shares": 20100000.0,
-      "weight": 8.25
+      "weight": 8.28
     },
     {
       "stockCode": "2383",
       "stockName": "台光電",
       "shares": 4650000.0,
-      "weight": 8.06
+      "weight": 8.04
     },
     {
       "stockCode": "3017",
       "stockName": "奇鋐",
       "shares": 5889000.0,
-      "weight": 7.06
+      "weight": 7.09
     },
     {
       "stockCode": "3653",
       "stockName": "健策",
       "shares": 2502000.0,
-      "weight": 6.08
+      "weight": 5.96
     },
     {
       "stockCode": "2308",
       "stockName": "台達電",
       "shares": 7389000.0,
-      "weight": 4.78
+      "weight": 4.9
     },
     {
       "stockCode": "2327",
       "stockName": "國巨*",
       "shares": 24757000.0,
-      "weight": 4.78
+      "weight": 4.76
     },
     {
       "stockCode": "2303",
       "stockName": "聯電",
       "shares": 87118000.0,
-      "weight": 4.71
+      "weight": 4.72
     },
     {
       "stockCode": "6223",
       "stockName": "旺矽",
       "shares": 2499000.0,
-      "weight": 4.57
+      "weight": 4.49
     },
     {
       "stockCode": "8046",
       "stockName": "南電",
       "shares": 8937000.0,
-      "weight": 4.0
+      "weight": 4.2
     },
     {
       "stockCode": "2345",
       "stockName": "智邦",
       "shares": 6264000.0,
-      "weight": 4.0
-    },
-    {
-      "stockCode": "6669",
-      "stockName": "緯穎",
-      "shares": 4812561.0,
-      "weight": 3.56
+      "weight": 3.9
     },
     {
       "stockCode": "3665",
       "stockName": "貿聯-KY",
       "shares": 3876848.0,
-      "weight": 3.34
+      "weight": 3.53
+    },
+    {
+      "stockCode": "6669",
+      "stockName": "緯穎",
+      "shares": 4812561.0,
+      "weight": 3.53
     },
     {
       "stockCode": "6274",
       "stockName": "台燿",
       "shares": 6151000.0,
-      "weight": 3.22
+      "weight": 3.28
     },
     {
       "stockCode": "3711",
       "stockName": "日月光投控",
-      "shares": 12966000.0,
-      "weight": 3.14
+      "shares": 12526000.0,
+      "weight": 3.09
     },
     {
       "stockCode": "6805",
       "stockName": "富世達",
       "shares": 1673000.0,
-      "weight": 1.48
+      "weight": 1.44
     },
     {
       "stockCode": "2449",
@@ -113,48 +113,48 @@
       "stockCode": "5274",
       "stockName": "信驊",
       "shares": 168900.0,
-      "weight": 1.15
+      "weight": 1.11
     },
     {
       "stockCode": "3443",
       "stockName": "創意",
       "shares": 388000.0,
-      "weight": 1.08
+      "weight": 1.09
     },
     {
       "stockCode": "2368",
       "stockName": "金像電",
-      "shares": 2022000.0,
-      "weight": 0.8
+      "shares": 2483000.0,
+      "weight": 0.97
     },
     {
       "stockCode": "4958",
       "stockName": "臻鼎-KY",
       "shares": 3483000.0,
-      "weight": 0.61
+      "weight": 0.62
     },
     {
       "stockCode": "3264",
       "stockName": "欣銓",
       "shares": 4982000.0,
-      "weight": 0.42
+      "weight": 0.43
     },
     {
       "stockCode": "8210",
       "stockName": "勤誠",
       "shares": 1139000.0,
-      "weight": 0.35
-    },
-    {
-      "stockCode": "6510",
-      "stockName": "精測",
-      "shares": 251000.0,
-      "weight": 0.28
+      "weight": 0.33
     },
     {
       "stockCode": "8996",
       "stockName": "高力",
       "shares": 476000.0,
+      "weight": 0.27
+    },
+    {
+      "stockCode": "6510",
+      "stockName": "精測",
+      "shares": 251000.0,
       "weight": 0.27
     },
     {
@@ -179,7 +179,7 @@
       "stockCode": "6191",
       "stockName": "精成科",
       "shares": 3921000.0,
-      "weight": 0.11
+      "weight": 0.12
     },
     {
       "stockCode": "3376",

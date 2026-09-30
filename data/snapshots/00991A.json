@@ -1,131 +1,131 @@
 {
-  "asOfDate": "2026-09-29",
+  "asOfDate": "2026-09-30",
   "holdings": [
     {
       "stockCode": "2330",
       "stockName": "台灣積體",
-      "shares": 4000000.0,
-      "weight": 12.781
-    },
-    {
-      "stockCode": "2383",
-      "stockName": "台光電子",
-      "shares": 1350000.0,
-      "weight": 8.575
+      "shares": 4200000.0,
+      "weight": 13.349
     },
     {
       "stockCode": "2408",
       "stockName": "南亞科技",
       "shares": 13000000.0,
-      "weight": 8.492
+      "weight": 8.647
+    },
+    {
+      "stockCode": "2383",
+      "stockName": "台光電子",
+      "shares": 1350000.0,
+      "weight": 8.538
     },
     {
       "stockCode": "3037",
       "stockName": "欣興電子",
       "shares": 5200000.0,
-      "weight": 7.821
+      "weight": 7.83
     },
     {
       "stockCode": "2059",
       "stockName": "川湖科技",
       "shares": 480000.0,
-      "weight": 7.507
+      "weight": 7.416
     },
     {
       "stockCode": "2454",
       "stockName": "聯發科技",
       "shares": 1130000.0,
-      "weight": 7.163
+      "weight": 7.125
     },
     {
       "stockCode": "8046",
       "stockName": "南亞電路",
       "shares": 3400000.0,
-      "weight": 5.574
+      "weight": 5.839
     },
     {
       "stockCode": "3189",
       "stockName": "景碩科技",
       "shares": 4500000.0,
-      "weight": 5.548
+      "weight": 5.594
     },
     {
       "stockCode": "3017",
       "stockName": "奇鋐科技",
       "shares": 1250000.0,
-      "weight": 5.487
+      "weight": 5.503
     },
     {
       "stockCode": "2327",
       "stockName": "國巨股份",
       "shares": 6000000.0,
-      "weight": 4.245
+      "weight": 4.214
     },
     {
       "stockCode": "5274",
       "stockName": "信驊科技",
       "shares": 140500.0,
-      "weight": 3.518
-    },
-    {
-      "stockCode": "6669",
-      "stockName": "緯穎科技",
-      "shares": 1150020.0,
-      "weight": 3.118
+      "weight": 3.376
     },
     {
       "stockCode": "3081",
       "stockName": "聯亞光電",
       "shares": 900000.0,
-      "weight": 3.079
+      "weight": 3.108
+    },
+    {
+      "stockCode": "6669",
+      "stockName": "緯穎科技",
+      "shares": 1150020.0,
+      "weight": 3.08
     },
     {
       "stockCode": "3026",
       "stockName": "禾伸堂企",
       "shares": 2700000.0,
-      "weight": 2.775
+      "weight": 2.737
+    },
+    {
+      "stockCode": "1303",
+      "stockName": "南亞塑膠",
+      "shares": 8000000.0,
+      "weight": 2.62
     },
     {
       "stockCode": "3653",
       "stockName": "健策精密",
       "shares": 290000.0,
-      "weight": 2.581
-    },
-    {
-      "stockCode": "1303",
-      "stockName": "南亞塑膠",
-      "shares": 7000000.0,
-      "weight": 2.232
+      "weight": 2.527
     },
     {
       "stockCode": "2308",
       "stockName": "台達電子",
       "shares": 871000.0,
-      "weight": 2.063
+      "weight": 2.11
     },
     {
       "stockCode": "2303",
       "stockName": "聯華電子",
       "shares": 10400000.0,
-      "weight": 2.061
+      "weight": 2.059
     },
     {
       "stockCode": "3711",
       "stockName": "日月光投",
       "shares": 2030000.0,
-      "weight": 1.8
+      "weight": 1.829
+    },
+    {
+      "stockCode": "6505",
+      "stockName": "台塑石化",
+      "shares": 4000000.0,
+      "weight": 0.499
     },
     {
       "stockCode": "2345",
       "stockName": "智邦科技",
-      "shares": 430000.0,
-      "weight": 1.005
-    },
-    {
-      "stockCode": "6223",
-      "stockName": "旺矽科技",
-      "shares": 150000.0,
-      "weight": 1.004
+      "shares": 200000.0,
+      "weight": 0.455
     },
     {
       "stockCode": "3008",
@@ -136,6 +136,12 @@
     {
       "stockCode": "7769",
       "stockName": "鴻勁精密",
+      "shares": 1000.0,
+      "weight": 0.007
+    },
+    {
+      "stockCode": "6223",
+      "stockName": "旺矽科技",
       "shares": 1000.0,
       "weight": 0.007
     },
@@ -292,12 +298,6 @@
     {
       "stockCode": "2412",
       "stockName": "中華電信",
-      "shares": 1000.0,
-      "weight": 0.0
-    },
-    {
-      "stockCode": "1216",
-      "stockName": "統一企業",
       "shares": 1000.0,
       "weight": 0.0
     }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23 22:58:57",
+  "updatedAt": "2026-10-24 02:52:56",
   "etfs": [
     {
       "code": "00981A",
@@ -1909,17 +1909,8 @@
       "code": "00992A",
       "name": "主動群益科技創新",
       "asOfDate": "2026-10-22",
-      "stale": true,
+      "stale": false,
       "holdings": [
-        {
-          "stockCode": "6584",
-          "stockName": "南俊國際",
-          "sharesPrev": 1904000.0,
-          "sharesNew": 1884000.0,
-          "change": -20000.0,
-          "weight": 1.8465,
-          "status": "decrease"
-        },
         {
           "stockCode": "3017",
           "stockName": "奇鋐",
@@ -2098,6 +2089,15 @@
           "sharesNew": 1079000.0,
           "change": 0.0,
           "weight": 1.8633,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "6584",
+          "stockName": "南俊國際",
+          "sharesPrev": 1884000.0,
+          "sharesNew": 1884000.0,
+          "change": 0.0,
+          "weight": 1.8465,
           "status": "unchanged"
         },
         {

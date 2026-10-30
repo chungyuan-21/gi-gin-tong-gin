@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31 00:40:28",
+  "updatedAt": "2026-10-31 03:50:54",
   "etfs": [
     {
       "code": "00981A",
@@ -1909,7 +1909,7 @@
       "code": "00992A",
       "name": "主動群益科技創新",
       "asOfDate": "2026-10-30",
-      "stale": false,
+      "stale": true,
       "holdings": [
         {
           "stockCode": "2330",

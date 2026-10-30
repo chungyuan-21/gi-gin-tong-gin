@@ -1,74 +1,56 @@
 {
-  "updatedAt": "2026-10-30 04:03:33",
+  "updatedAt": "2026-10-31 00:40:28",
   "etfs": [
     {
       "code": "00981A",
       "name": "主動統一台股增長",
-      "asOfDate": "2026-10-29",
+      "asOfDate": "2026-10-30",
       "stale": false,
       "holdings": [
         {
-          "stockCode": "3264",
-          "stockName": "欣銓",
-          "sharesPrev": 4827000.0,
-          "sharesNew": 5027000.0,
-          "change": 200000.0,
-          "weight": 0.44,
+          "stockCode": "3711",
+          "stockName": "日月光投控",
+          "sharesPrev": 11944000.0,
+          "sharesNew": 13588000.0,
+          "change": 1644000.0,
+          "weight": 3.42,
           "status": "increase"
         },
         {
           "stockCode": "6805",
           "stockName": "富世達",
-          "sharesPrev": 1126000.0,
-          "sharesNew": 1206000.0,
-          "change": 80000.0,
-          "weight": 1.07,
+          "sharesPrev": 1206000.0,
+          "sharesNew": 1412000.0,
+          "change": 206000.0,
+          "weight": 1.27,
           "status": "increase"
-        },
-        {
-          "stockCode": "8046",
-          "stockName": "南電",
-          "sharesPrev": 8937000.0,
-          "sharesNew": 8987000.0,
-          "change": 50000.0,
-          "weight": 4.12,
-          "status": "increase"
-        },
-        {
-          "stockCode": "6274",
-          "stockName": "台燿",
-          "sharesPrev": 7224000.0,
-          "sharesNew": 7262000.0,
-          "change": 38000.0,
-          "weight": 3.7,
-          "status": "increase"
-        },
-        {
-          "stockCode": "5274",
-          "stockName": "信驊",
-          "sharesPrev": 223900.0,
-          "sharesNew": 238900.0,
-          "change": 15000.0,
-          "weight": 1.49,
-          "status": "increase"
-        },
-        {
-          "stockCode": "6515",
-          "stockName": "穎崴",
-          "sharesPrev": 77000.0,
-          "sharesNew": 69000.0,
-          "change": -8000.0,
-          "weight": 0.12,
-          "status": "decrease"
         },
         {
           "stockCode": "2330",
           "stockName": "台積電",
           "sharesPrev": 13046000.0,
-          "sharesNew": 13046000.0,
-          "change": 0.0,
-          "weight": 11.56,
-          "status": "unchanged"
+          "sharesNew": 13251000.0,
+          "change": 205000.0,
+          "weight": 11.84,
+          "status": "increase"
+        },
+        {
+          "stockCode": "3017",
+          "stockName": "奇鋐",
+          "sharesPrev": 6537000.0,
+          "sharesNew": 6616000.0,
+          "change": 79000.0,
+          "weight": 7.72,
+          "status": "increase"
+        },
+        {
+          "stockCode": "2454",
+          "stockName": "聯發科",
+          "sharesPrev": 5306000.0,
+          "sharesNew": 5367000.0,
+          "change": 61000.0,
+          "weight": 7.92,
+          "status": "increase"
         },
         {
           "stockCode": "2383",
@@ -76,16 +58,7 @@
           "sharesPrev": 4328000.0,
           "sharesNew": 4328000.0,
           "change": 0.0,
-          "weight": 7.96,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "2454",
-          "stockName": "聯發科",
-          "sharesPrev": 5306000.0,
-          "sharesNew": 5306000.0,
-          "change": 0.0,
-          "weight": 7.88,
+          "weight": 7.63,
           "status": "unchanged"
         },
         {
@@ -94,16 +67,7 @@
           "sharesPrev": 19739000.0,
           "sharesNew": 19739000.0,
           "change": 0.0,
-          "weight": 7.53,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "3017",
-          "stockName": "奇鋐",
-          "sharesPrev": 6537000.0,
-          "sharesNew": 6537000.0,
-          "change": 0.0,
-          "weight": 7.45,
+          "weight": 7.36,
           "status": "unchanged"
         },
         {
@@ -112,7 +76,7 @@
           "sharesPrev": 2512000.0,
           "sharesNew": 2512000.0,
           "change": 0.0,
-          "weight": 5.91,
+          "weight": 5.98,
           "status": "unchanged"
         },
         {
@@ -121,7 +85,7 @@
           "sharesPrev": 23519000.0,
           "sharesNew": 23519000.0,
           "change": 0.0,
-          "weight": 4.69,
+          "weight": 4.45,
           "status": "unchanged"
         },
         {
@@ -130,16 +94,16 @@
           "sharesPrev": 2504000.0,
           "sharesNew": 2504000.0,
           "change": 0.0,
-          "weight": 4.45,
+          "weight": 4.35,
           "status": "unchanged"
         },
         {
-          "stockCode": "2308",
-          "stockName": "台達電",
-          "sharesPrev": 7582000.0,
-          "sharesNew": 7582000.0,
+          "stockCode": "8046",
+          "stockName": "南電",
+          "sharesPrev": 8987000.0,
+          "sharesNew": 8987000.0,
           "change": 0.0,
-          "weight": 4.12,
+          "weight": 4.03,
           "status": "unchanged"
         },
         {
@@ -148,7 +112,25 @@
           "sharesPrev": 6331000.0,
           "sharesNew": 6331000.0,
           "change": 0.0,
-          "weight": 4.08,
+          "weight": 3.86,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "2308",
+          "stockName": "台達電",
+          "sharesPrev": 7582000.0,
+          "sharesNew": 7582000.0,
+          "change": 0.0,
+          "weight": 3.82,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "6274",
+          "stockName": "台燿",
+          "sharesPrev": 7262000.0,
+          "sharesNew": 7262000.0,
+          "change": 0.0,
+          "weight": 3.46,
           "status": "unchanged"
         },
         {
@@ -157,7 +139,7 @@
           "sharesPrev": 79618000.0,
           "sharesNew": 79618000.0,
           "change": 0.0,
-          "weight": 3.38,
+          "weight": 3.35,
           "status": "unchanged"
         },
         {
@@ -166,16 +148,7 @@
           "sharesPrev": 7636000.0,
           "sharesNew": 7636000.0,
           "change": 0.0,
-          "weight": 3.13,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "3711",
-          "stockName": "日月光投控",
-          "sharesPrev": 11944000.0,
-          "sharesNew": 11944000.0,
-          "change": 0.0,
-          "weight": 2.99,
+          "weight": 2.94,
           "status": "unchanged"
         },
         {
@@ -184,7 +157,7 @@
           "sharesPrev": 923000.0,
           "sharesNew": 923000.0,
           "change": 0.0,
-          "weight": 2.59,
+          "weight": 2.66,
           "status": "unchanged"
         },
         {
@@ -193,7 +166,7 @@
           "sharesPrev": 3281561.0,
           "sharesNew": 3281561.0,
           "change": 0.0,
-          "weight": 2.27,
+          "weight": 2.24,
           "status": "unchanged"
         },
         {
@@ -202,7 +175,16 @@
           "sharesPrev": 2887848.0,
           "sharesNew": 2887848.0,
           "change": 0.0,
-          "weight": 1.81,
+          "weight": 1.77,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "5274",
+          "stockName": "信驊",
+          "sharesPrev": 238900.0,
+          "sharesNew": 238900.0,
+          "change": 0.0,
+          "weight": 1.44,
           "status": "unchanged"
         },
         {
@@ -211,7 +193,7 @@
           "sharesPrev": 7556450.0,
           "sharesNew": 7556450.0,
           "change": 0.0,
-          "weight": 0.75,
+          "weight": 0.72,
           "status": "unchanged"
         },
         {
@@ -220,7 +202,7 @@
           "sharesPrev": 981000.0,
           "sharesNew": 981000.0,
           "change": 0.0,
-          "weight": 0.56,
+          "weight": 0.53,
           "status": "unchanged"
         },
         {
@@ -230,6 +212,15 @@
           "sharesNew": 470000.0,
           "change": 0.0,
           "weight": 0.5,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "3264",
+          "stockName": "欣銓",
+          "sharesPrev": 5027000.0,
+          "sharesNew": 5027000.0,
+          "change": 0.0,
+          "weight": 0.42,
           "status": "unchanged"
         },
         {
@@ -247,7 +238,7 @@
           "sharesPrev": 2185000.0,
           "sharesNew": 2185000.0,
           "change": 0.0,
-          "weight": 0.17,
+          "weight": 0.16,
           "status": "unchanged"
         },
         {
@@ -256,7 +247,7 @@
           "sharesPrev": 957000.0,
           "sharesNew": 957000.0,
           "change": 0.0,
-          "weight": 0.17,
+          "weight": 0.16,
           "status": "unchanged"
         },
         {
@@ -269,12 +260,21 @@
           "status": "unchanged"
         },
         {
+          "stockCode": "6515",
+          "stockName": "穎崴",
+          "sharesPrev": 69000.0,
+          "sharesNew": 69000.0,
+          "change": 0.0,
+          "weight": 0.12,
+          "status": "unchanged"
+        },
+        {
           "stockCode": "8358",
           "stockName": "金居",
           "sharesPrev": 654000.0,
           "sharesNew": 654000.0,
           "change": 0.0,
-          "weight": 0.11,
+          "weight": 0.1,
           "status": "unchanged"
         },
         {
@@ -283,7 +283,7 @@
           "sharesPrev": 1740000.0,
           "sharesNew": 1740000.0,
           "change": 0.0,
-          "weight": 0.1,
+          "weight": 0.09,
           "status": "unchanged"
         },
         {
@@ -301,7 +301,7 @@
           "sharesPrev": 121000.0,
           "sharesNew": 121000.0,
           "change": 0.0,
-          "weight": 0.06,
+          "weight": 0.05,
           "status": "unchanged"
         },
         {
@@ -462,61 +462,52 @@
     {
       "code": "00403A",
       "name": "主動統一升級50",
-      "asOfDate": "2026-10-29",
+      "asOfDate": "2026-10-30",
       "stale": false,
       "holdings": [
         {
-          "stockCode": "2303",
-          "stockName": "聯電",
-          "sharesPrev": 6000000.0,
-          "sharesNew": 1000.0,
-          "change": -5999000.0,
-          "weight": 0.0,
-          "status": "decrease"
-        },
-        {
           "stockCode": "3711",
           "stockName": "日月光投控",
-          "sharesPrev": 900000.0,
-          "sharesNew": 1300000.0,
-          "change": 400000.0,
-          "weight": 0.69,
+          "sharesPrev": 1300000.0,
+          "sharesNew": 1600000.0,
+          "change": 300000.0,
+          "weight": 0.86,
           "status": "increase"
         },
         {
           "stockCode": "2308",
           "stockName": "台達電",
-          "sharesPrev": 2658000.0,
-          "sharesNew": 2393000.0,
-          "change": -265000.0,
-          "weight": 2.76,
+          "sharesPrev": 2393000.0,
+          "sharesNew": 2170000.0,
+          "change": -223000.0,
+          "weight": 2.33,
           "status": "decrease"
         },
         {
-          "stockCode": "2368",
-          "stockName": "金像電",
-          "sharesPrev": 820000.0,
-          "sharesNew": 930000.0,
-          "change": 110000.0,
-          "weight": 0.81,
+          "stockCode": "1560",
+          "stockName": "中砂",
+          "sharesPrev": 550000.0,
+          "sharesNew": 620000.0,
+          "change": 70000.0,
+          "weight": 0.43,
           "status": "increase"
         },
         {
           "stockCode": "3583",
           "stockName": "辛耘",
-          "sharesPrev": 723000.0,
-          "sharesNew": 650000.0,
-          "change": -73000.0,
-          "weight": 0.3,
+          "sharesPrev": 650000.0,
+          "sharesNew": 580000.0,
+          "change": -70000.0,
+          "weight": 0.26,
           "status": "decrease"
         },
         {
-          "stockCode": "5274",
-          "stockName": "信驊",
-          "sharesPrev": 170500.0,
-          "sharesNew": 180500.0,
-          "change": 10000.0,
-          "weight": 2.39,
+          "stockCode": "3017",
+          "stockName": "奇鋐",
+          "sharesPrev": 2330000.0,
+          "sharesNew": 2370000.0,
+          "change": 40000.0,
+          "weight": 5.89,
           "status": "increase"
         },
         {
@@ -525,7 +516,7 @@
           "sharesPrev": 7700000.0,
           "sharesNew": 7700000.0,
           "change": 0.0,
-          "weight": 14.48,
+          "weight": 14.65,
           "status": "unchanged"
         },
         {
@@ -534,16 +525,7 @@
           "sharesPrev": 7200000.0,
           "sharesNew": 7200000.0,
           "change": 0.0,
-          "weight": 5.83,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "3017",
-          "stockName": "奇鋐",
-          "sharesPrev": 2330000.0,
-          "sharesNew": 2330000.0,
-          "change": 0.0,
-          "weight": 5.63,
+          "weight": 5.72,
           "status": "unchanged"
         },
         {
@@ -552,7 +534,7 @@
           "sharesPrev": 1000000.0,
           "sharesNew": 1000000.0,
           "change": 0.0,
-          "weight": 4.99,
+          "weight": 5.07,
           "status": "unchanged"
         },
         {
@@ -561,7 +543,7 @@
           "sharesPrev": 1530000.0,
           "sharesNew": 1530000.0,
           "change": 0.0,
-          "weight": 4.82,
+          "weight": 4.81,
           "status": "unchanged"
         },
         {
@@ -570,7 +552,7 @@
           "sharesPrev": 1200000.0,
           "sharesNew": 1200000.0,
           "change": 0.0,
-          "weight": 4.68,
+          "weight": 4.5,
           "status": "unchanged"
         },
         {
@@ -579,7 +561,7 @@
           "sharesPrev": 710000.0,
           "sharesNew": 710000.0,
           "change": 0.0,
-          "weight": 4.22,
+          "weight": 4.35,
           "status": "unchanged"
         },
         {
@@ -588,7 +570,7 @@
           "sharesPrev": 8800000.0,
           "sharesNew": 8800000.0,
           "change": 0.0,
-          "weight": 3.72,
+          "weight": 3.55,
           "status": "unchanged"
         },
         {
@@ -597,7 +579,7 @@
           "sharesPrev": 930000.0,
           "sharesNew": 930000.0,
           "change": 0.0,
-          "weight": 3.5,
+          "weight": 3.44,
           "status": "unchanged"
         },
         {
@@ -606,7 +588,7 @@
           "sharesPrev": 4450000.0,
           "sharesNew": 4450000.0,
           "change": 0.0,
-          "weight": 3.32,
+          "weight": 3.33,
           "status": "unchanged"
         },
         {
@@ -615,7 +597,7 @@
           "sharesPrev": 3010000.0,
           "sharesNew": 3010000.0,
           "change": 0.0,
-          "weight": 2.93,
+          "weight": 2.87,
           "status": "unchanged"
         },
         {
@@ -624,7 +606,7 @@
           "sharesPrev": 12000000.0,
           "sharesNew": 12000000.0,
           "change": 0.0,
-          "weight": 2.91,
+          "weight": 2.85,
           "status": "unchanged"
         },
         {
@@ -633,7 +615,7 @@
           "sharesPrev": 1850956.0,
           "sharesNew": 1850956.0,
           "change": 0.0,
-          "weight": 2.72,
+          "weight": 2.69,
           "status": "unchanged"
         },
         {
@@ -642,7 +624,16 @@
           "sharesPrev": 2400000.0,
           "sharesNew": 2400000.0,
           "change": 0.0,
-          "weight": 2.6,
+          "weight": 2.44,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "5274",
+          "stockName": "信驊",
+          "sharesPrev": 180500.0,
+          "sharesNew": 180500.0,
+          "change": 0.0,
+          "weight": 2.31,
           "status": "unchanged"
         },
         {
@@ -651,7 +642,7 @@
           "sharesPrev": 1880000.0,
           "sharesNew": 1880000.0,
           "change": 0.0,
-          "weight": 2.26,
+          "weight": 2.17,
           "status": "unchanged"
         },
         {
@@ -660,7 +651,7 @@
           "sharesPrev": 1600000.0,
           "sharesNew": 1600000.0,
           "change": 0.0,
-          "weight": 2.19,
+          "weight": 2.07,
           "status": "unchanged"
         },
         {
@@ -669,7 +660,7 @@
           "sharesPrev": 1460000.0,
           "sharesNew": 1460000.0,
           "change": 0.0,
-          "weight": 1.94,
+          "weight": 1.9,
           "status": "unchanged"
         },
         {
@@ -678,7 +669,7 @@
           "sharesPrev": 375000.0,
           "sharesNew": 375000.0,
           "change": 0.0,
-          "weight": 1.7,
+          "weight": 1.63,
           "status": "unchanged"
         },
         {
@@ -687,7 +678,7 @@
           "sharesPrev": 2800000.0,
           "sharesNew": 2800000.0,
           "change": 0.0,
-          "weight": 1.04,
+          "weight": 1.02,
           "status": "unchanged"
         },
         {
@@ -696,7 +687,16 @@
           "sharesPrev": 4000000.0,
           "sharesNew": 4000000.0,
           "change": 0.0,
-          "weight": 0.84,
+          "weight": 0.81,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "2368",
+          "stockName": "金像電",
+          "sharesPrev": 930000.0,
+          "sharesNew": 930000.0,
+          "change": 0.0,
+          "weight": 0.76,
           "status": "unchanged"
         },
         {
@@ -705,7 +705,7 @@
           "sharesPrev": 90000.0,
           "sharesNew": 90000.0,
           "change": 0.0,
-          "weight": 0.69,
+          "weight": 0.7,
           "status": "unchanged"
         },
         {
@@ -714,7 +714,7 @@
           "sharesPrev": 3200000.0,
           "sharesNew": 3200000.0,
           "change": 0.0,
-          "weight": 0.62,
+          "weight": 0.63,
           "status": "unchanged"
         },
         {
@@ -732,7 +732,7 @@
           "sharesPrev": 1500000.0,
           "sharesNew": 1500000.0,
           "change": 0.0,
-          "weight": 0.51,
+          "weight": 0.49,
           "status": "unchanged"
         },
         {
@@ -741,25 +741,7 @@
           "sharesPrev": 2000000.0,
           "sharesNew": 2000000.0,
           "change": 0.0,
-          "weight": 0.5,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "1560",
-          "stockName": "中砂",
-          "sharesPrev": 550000.0,
-          "sharesNew": 550000.0,
-          "change": 0.0,
-          "weight": 0.38,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "6442",
-          "stockName": "光聖",
-          "sharesPrev": 350000.0,
-          "sharesNew": 350000.0,
-          "change": 0.0,
-          "weight": 0.36,
+          "weight": 0.48,
           "status": "unchanged"
         },
         {
@@ -768,7 +750,16 @@
           "sharesPrev": 4000000.0,
           "sharesNew": 4000000.0,
           "change": 0.0,
-          "weight": 0.36,
+          "weight": 0.37,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "6442",
+          "stockName": "光聖",
+          "sharesPrev": 350000.0,
+          "sharesNew": 350000.0,
+          "change": 0.0,
+          "weight": 0.35,
           "status": "unchanged"
         },
         {
@@ -777,7 +768,7 @@
           "sharesPrev": 2000000.0,
           "sharesNew": 2000000.0,
           "change": 0.0,
-          "weight": 0.33,
+          "weight": 0.32,
           "status": "unchanged"
         },
         {
@@ -786,7 +777,7 @@
           "sharesPrev": 300000.0,
           "sharesNew": 300000.0,
           "change": 0.0,
-          "weight": 0.19,
+          "weight": 0.18,
           "status": "unchanged"
         },
         {
@@ -804,7 +795,7 @@
           "sharesPrev": 200000.0,
           "sharesNew": 200000.0,
           "change": 0.0,
-          "weight": 0.08,
+          "weight": 0.07,
           "status": "unchanged"
         },
         {
@@ -898,6 +889,15 @@
           "status": "unchanged"
         },
         {
+          "stockCode": "2303",
+          "stockName": "聯電",
+          "sharesPrev": 1000.0,
+          "sharesNew": 1000.0,
+          "change": 0.0,
+          "weight": 0.0,
+          "status": "unchanged"
+        },
+        {
           "stockCode": "2360",
           "stockName": "致茂",
           "sharesPrev": 1000.0,
@@ -920,16 +920,88 @@
     {
       "code": "00991A",
       "name": "主動復華未來50",
-      "asOfDate": "2026-10-29",
+      "asOfDate": "2026-10-30",
       "stale": false,
       "holdings": [
+        {
+          "stockCode": "1303",
+          "stockName": "南亞塑膠",
+          "sharesPrev": 10200000.0,
+          "sharesNew": 11000000.0,
+          "change": 800000.0,
+          "weight": 4.839,
+          "status": "increase"
+        },
+        {
+          "stockCode": "3711",
+          "stockName": "日月光投",
+          "sharesPrev": 2400000.0,
+          "sharesNew": 3000000.0,
+          "change": 600000.0,
+          "weight": 2.979,
+          "status": "increase"
+        },
+        {
+          "stockCode": "3008",
+          "stockName": "大立光電",
+          "sharesPrev": 170000.0,
+          "sharesNew": 1000.0,
+          "change": -169000.0,
+          "weight": 0.008,
+          "status": "decrease"
+        },
+        {
+          "stockCode": "8046",
+          "stockName": "南亞電路",
+          "sharesPrev": 3400000.0,
+          "sharesNew": 3500000.0,
+          "change": 100000.0,
+          "weight": 6.19,
+          "status": "increase"
+        },
+        {
+          "stockCode": "3017",
+          "stockName": "奇鋐科技",
+          "sharesPrev": 1400000.0,
+          "sharesNew": 1430000.0,
+          "change": 30000.0,
+          "weight": 6.578,
+          "status": "increase"
+        },
+        {
+          "stockCode": "3189",
+          "stockName": "景碩科技",
+          "sharesPrev": 4620000.0,
+          "sharesNew": 4650000.0,
+          "change": 30000.0,
+          "weight": 6.441,
+          "status": "increase"
+        },
+        {
+          "stockCode": "3653",
+          "stockName": "健策精密",
+          "sharesPrev": 350000.0,
+          "sharesNew": 365000.0,
+          "change": 15000.0,
+          "weight": 3.426,
+          "status": "increase"
+        },
+        {
+          "stockCode": "2059",
+          "stockName": "川湖科技",
+          "sharesPrev": 482000.0,
+          "sharesNew": 485000.0,
+          "change": 3000.0,
+          "weight": 6.956,
+          "status": "increase"
+        },
         {
           "stockCode": "2330",
           "stockName": "台灣積體",
           "sharesPrev": 4200000.0,
           "sharesNew": 4200000.0,
           "change": 0.0,
-          "weight": 14.503,
+          "weight": 14.795,
           "status": "unchanged"
         },
         {
@@ -938,7 +1010,7 @@
           "sharesPrev": 1350000.0,
           "sharesNew": 1350000.0,
           "change": 0.0,
-          "weight": 9.671,
+          "weight": 9.38,
           "status": "unchanged"
         },
         {
@@ -947,7 +1019,7 @@
           "sharesPrev": 11700000.0,
           "sharesNew": 11700000.0,
           "change": 0.0,
-          "weight": 7.98,
+          "weight": 7.904,
           "status": "unchanged"
         },
         {
@@ -956,43 +1028,7 @@
           "sharesPrev": 5350000.0,
           "sharesNew": 5350000.0,
           "change": 0.0,
-          "weight": 7.956,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "2059",
-          "stockName": "川湖科技",
-          "sharesPrev": 482000.0,
-          "sharesNew": 482000.0,
-          "change": 0.0,
-          "weight": 6.809,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "3189",
-          "stockName": "景碩科技",
-          "sharesPrev": 4620000.0,
-          "sharesNew": 4620000.0,
-          "change": 0.0,
-          "weight": 6.335,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "3017",
-          "stockName": "奇鋐科技",
-          "sharesPrev": 1400000.0,
-          "sharesNew": 1400000.0,
-          "change": 0.0,
-          "weight": 6.216,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "8046",
-          "stockName": "南亞電路",
-          "sharesPrev": 3400000.0,
-          "sharesNew": 3400000.0,
-          "change": 0.0,
-          "weight": 6.077,
+          "weight": 7.864,
           "status": "unchanged"
         },
         {
@@ -1001,16 +1037,7 @@
           "sharesPrev": 1050000.0,
           "sharesNew": 1050000.0,
           "change": 0.0,
-          "weight": 6.073,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "1303",
-          "stockName": "南亞塑膠",
-          "sharesPrev": 10200000.0,
-          "sharesNew": 10200000.0,
-          "change": 0.0,
-          "weight": 4.55,
+          "weight": 6.11,
           "status": "unchanged"
         },
         {
@@ -1019,7 +1046,7 @@
           "sharesPrev": 5400000.0,
           "sharesNew": 5400000.0,
           "change": 0.0,
-          "weight": 4.193,
+          "weight": 4.029,
           "status": "unchanged"
         },
         {
@@ -1028,16 +1055,7 @@
           "sharesPrev": 3000000.0,
           "sharesNew": 3000000.0,
           "change": 0.0,
-          "weight": 3.29,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "3653",
-          "stockName": "健策精密",
-          "sharesPrev": 350000.0,
-          "sharesNew": 350000.0,
-          "change": 0.0,
-          "weight": 3.205,
+          "weight": 3.152,
           "status": "unchanged"
         },
         {
@@ -1046,7 +1064,7 @@
           "sharesPrev": 800000.0,
           "sharesNew": 800000.0,
           "change": 0.0,
-          "weight": 2.946,
+          "weight": 2.818,
           "status": "unchanged"
         },
         {
@@ -1055,16 +1073,7 @@
           "sharesPrev": 110500.0,
           "sharesNew": 110500.0,
           "change": 0.0,
-          "weight": 2.683,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "3711",
-          "stockName": "日月光投",
-          "sharesPrev": 2400000.0,
-          "sharesNew": 2400000.0,
-          "change": 0.0,
-          "weight": 2.344,
+          "weight": 2.623,
           "status": "unchanged"
         },
         {
@@ -1073,16 +1082,7 @@
           "sharesPrev": 13000000.0,
           "sharesNew": 13000000.0,
           "change": 0.0,
-          "weight": 1.833,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "3008",
-          "stockName": "大立光電",
-          "sharesPrev": 170000.0,
-          "sharesNew": 170000.0,
-          "change": 0.0,
-          "weight": 1.413,
+          "weight": 1.899,
           "status": "unchanged"
         },
         {
@@ -1091,7 +1091,7 @@
           "sharesPrev": 170000.0,
           "sharesNew": 170000.0,
           "change": 0.0,
-          "weight": 0.498,
+          "weight": 0.488,
           "status": "unchanged"
         },
         {
@@ -1127,7 +1127,7 @@
           "sharesPrev": 9000.0,
           "sharesNew": 9000.0,
           "change": 0.0,
-          "weight": 0.003,
+          "weight": 0.004,
           "status": "unchanged"
         },
         {
@@ -1158,15 +1158,6 @@
           "status": "unchanged"
         },
         {
-          "stockCode": "2345",
-          "stockName": "智邦科技",
-          "sharesPrev": 1000.0,
-          "sharesNew": 1000.0,
-          "change": 0.0,
-          "weight": 0.003,
-          "status": "unchanged"
-        },
-        {
           "stockCode": "3665",
           "stockName": "貿聯-KY",
           "sharesPrev": 1000.0,
@@ -1185,8 +1176,8 @@
           "status": "unchanged"
         },
         {
-          "stockCode": "2308",
-          "stockName": "台達電子",
+          "stockCode": "2345",
+          "stockName": "智邦科技",
           "sharesPrev": 1000.0,
           "sharesNew": 1000.0,
           "change": 0.0,
@@ -1198,6 +1189,15 @@
           "stockName": "富邦金融",
           "sharesPrev": 9000.0,
           "sharesNew": 9000.0,
+          "change": 0.0,
+          "weight": 0.002,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "2308",
+          "stockName": "台達電子",
+          "sharesPrev": 1000.0,
+          "sharesNew": 1000.0,
           "change": 0.0,
           "weight": 0.002,
           "status": "unchanged"
@@ -1226,7 +1226,7 @@
           "sharesPrev": 9000.0,
           "sharesNew": 9000.0,
           "change": 0.0,
-          "weight": 0.001,
+          "weight": 0.002,
           "status": "unchanged"
         },
         {
@@ -1293,6 +1293,15 @@
           "status": "unchanged"
         },
         {
+          "stockCode": "2884",
+          "stockName": "玉山金融",
+          "sharesPrev": 9000.0,
+          "sharesNew": 9000.0,
+          "change": 0.0,
+          "weight": 0.001,
+          "status": "unchanged"
+        },
+        {
           "stockCode": "2880",
           "stockName": "華南金融",
           "sharesPrev": 9090.0,
@@ -1302,8 +1311,17 @@
           "status": "unchanged"
         },
         {
-          "stockCode": "2884",
-          "stockName": "玉山金融",
+          "stockCode": "2890",
+          "stockName": "永豐金融",
+          "sharesPrev": 9000.0,
+          "sharesNew": 9000.0,
+          "change": 0.0,
+          "weight": 0.001,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "2883",
+          "stockName": "凱基金融",
           "sharesPrev": 9000.0,
           "sharesNew": 9000.0,
           "change": 0.0,
@@ -1326,24 +1344,6 @@
           "sharesNew": 9000.0,
           "change": 0.0,
           "weight": 0.001,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "2890",
-          "stockName": "永豐金融",
-          "sharesPrev": 9000.0,
-          "sharesNew": 9000.0,
-          "change": 0.0,
-          "weight": 0.001,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "2883",
-          "stockName": "凱基金融",
-          "sharesPrev": 9000.0,
-          "sharesNew": 9000.0,
-          "change": 0.0,
-          "weight": 0.0,
           "status": "unchanged"
         },
         {
@@ -1378,44 +1378,17 @@
     {
       "code": "00982A",
       "name": "主動群益台灣強棒",
-      "asOfDate": "2026-10-29",
+      "asOfDate": "2026-10-30",
       "stale": false,
       "holdings": [
         {
-          "stockCode": "8070",
-          "stockName": "長華*",
-          "sharesPrev": 4343000.0,
-          "sharesNew": 6343000.0,
-          "change": 2000000.0,
-          "weight": 0.6855,
-          "status": "increase"
-        },
-        {
           "stockCode": "3105",
           "stockName": "穩懋",
-          "sharesPrev": 5709000.0,
+          "sharesPrev": 7059000.0,
           "sharesNew": 7059000.0,
-          "change": 1350000.0,
-          "weight": 8.9383,
-          "status": "increase"
-        },
-        {
-          "stockCode": "3711",
-          "stockName": "日月光投控",
-          "sharesPrev": 954000.0,
-          "sharesNew": 1354000.0,
-          "change": 400000.0,
-          "weight": 1.9713,
-          "status": "increase"
-        },
-        {
-          "stockCode": "6669",
-          "stockName": "緯穎",
-          "sharesPrev": 592225.0,
-          "sharesNew": 586225.0,
-          "change": -6000.0,
-          "weight": 2.3555,
-          "status": "decrease"
+          "change": 0.0,
+          "weight": 8.9871,
+          "status": "unchanged"
         },
         {
           "stockCode": "2330",
@@ -1423,7 +1396,7 @@
           "sharesPrev": 1609000.0,
           "sharesNew": 1609000.0,
           "change": 0.0,
-          "weight": 8.2832,
+          "weight": 8.3995,
           "status": "unchanged"
         },
         {
@@ -1432,7 +1405,7 @@
           "sharesPrev": 786000.0,
           "sharesNew": 786000.0,
           "change": 0.0,
-          "weight": 6.7774,
+          "weight": 6.778,
           "status": "unchanged"
         },
         {
@@ -1441,7 +1414,7 @@
           "sharesPrev": 3745000.0,
           "sharesNew": 3745000.0,
           "change": 0.0,
-          "weight": 5.3088,
+          "weight": 5.2464,
           "status": "unchanged"
         },
         {
@@ -1450,7 +1423,7 @@
           "sharesPrev": 2300000.0,
           "sharesNew": 2300000.0,
           "change": 0.0,
-          "weight": 4.1233,
+          "weight": 3.9313,
           "status": "unchanged"
         },
         {
@@ -1459,7 +1432,7 @@
           "sharesPrev": 951000.0,
           "sharesNew": 951000.0,
           "change": 0.0,
-          "weight": 3.9429,
+          "weight": 3.6762,
           "status": "unchanged"
         },
         {
@@ -1468,16 +1441,7 @@
           "sharesPrev": 3158000.0,
           "sharesNew": 3158000.0,
           "change": 0.0,
-          "weight": 3.5005,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "2383",
-          "stockName": "台光電",
-          "sharesPrev": 309000.0,
-          "sharesNew": 309000.0,
-          "change": 0.0,
-          "weight": 3.3,
+          "weight": 3.3806,
           "status": "unchanged"
         },
         {
@@ -1486,16 +1450,16 @@
           "sharesPrev": 1180000.0,
           "sharesNew": 1180000.0,
           "change": 0.0,
-          "weight": 3.2448,
+          "weight": 3.2619,
           "status": "unchanged"
         },
         {
-          "stockCode": "3008",
-          "stockName": "大立光",
-          "sharesPrev": 253000.0,
-          "sharesNew": 253000.0,
+          "stockCode": "2383",
+          "stockName": "台光電",
+          "sharesPrev": 309000.0,
+          "sharesNew": 309000.0,
           "change": 0.0,
-          "weight": 3.1361,
+          "weight": 3.1819,
           "status": "unchanged"
         },
         {
@@ -1504,7 +1468,16 @@
           "sharesPrev": 301000.0,
           "sharesNew": 301000.0,
           "change": 0.0,
-          "weight": 3.1055,
+          "weight": 3.0564,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "3008",
+          "stockName": "大立光",
+          "sharesPrev": 253000.0,
+          "sharesNew": 253000.0,
+          "change": 0.0,
+          "weight": 3.026,
           "status": "unchanged"
         },
         {
@@ -1513,7 +1486,7 @@
           "sharesPrev": 129000.0,
           "sharesNew": 129000.0,
           "change": 0.0,
-          "weight": 2.7168,
+          "weight": 2.742,
           "status": "unchanged"
         },
         {
@@ -1522,7 +1495,25 @@
           "sharesPrev": 374000.0,
           "sharesNew": 374000.0,
           "change": 0.0,
-          "weight": 2.4754,
+          "weight": 2.5496,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "6669",
+          "stockName": "緯穎",
+          "sharesPrev": 586225.0,
+          "sharesNew": 586225.0,
+          "change": 0.0,
+          "weight": 2.3371,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "3711",
+          "stockName": "日月光投控",
+          "sharesPrev": 1354000.0,
+          "sharesNew": 1354000.0,
+          "change": 0.0,
+          "weight": 1.9922,
           "status": "unchanged"
         },
         {
@@ -1531,7 +1522,7 @@
           "sharesPrev": 4838000.0,
           "sharesNew": 4838000.0,
           "change": 0.0,
-          "weight": 1.944,
+          "weight": 1.9554,
           "status": "unchanged"
         },
         {
@@ -1540,7 +1531,7 @@
           "sharesPrev": 1091000.0,
           "sharesNew": 1091000.0,
           "change": 0.0,
-          "weight": 1.8931,
+          "weight": 1.8167,
           "status": "unchanged"
         },
         {
@@ -1549,34 +1540,7 @@
           "sharesPrev": 3234000.0,
           "sharesNew": 3234000.0,
           "change": 0.0,
-          "weight": 1.7372,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "2455",
-          "stockName": "全新",
-          "sharesPrev": 1539000.0,
-          "sharesNew": 1539000.0,
-          "change": 0.0,
-          "weight": 1.5878,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "3265",
-          "stockName": "台星科",
-          "sharesPrev": 3364000.0,
-          "sharesNew": 3364000.0,
-          "change": 0.0,
-          "weight": 1.5202,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "6213",
-          "stockName": "聯茂",
-          "sharesPrev": 942000.0,
-          "sharesNew": 942000.0,
-          "change": 0.0,
-          "weight": 1.496,
+          "weight": 1.7131,
           "status": "unchanged"
         },
         {
@@ -1585,25 +1549,25 @@
           "sharesPrev": 3438000.0,
           "sharesNew": 3438000.0,
           "change": 0.0,
-          "weight": 1.4804,
+          "weight": 1.5221,
           "status": "unchanged"
         },
         {
-          "stockCode": "6672",
-          "stockName": "騰輝電子-KY",
-          "sharesPrev": 1175000.0,
-          "sharesNew": 1175000.0,
+          "stockCode": "2455",
+          "stockName": "全新",
+          "sharesPrev": 1539000.0,
+          "sharesNew": 1539000.0,
           "change": 0.0,
-          "weight": 1.4176,
+          "weight": 1.5153,
           "status": "unchanged"
         },
         {
-          "stockCode": "6239",
-          "stockName": "力成",
-          "sharesPrev": 2410000.0,
-          "sharesNew": 2410000.0,
+          "stockCode": "3265",
+          "stockName": "台星科",
+          "sharesPrev": 3364000.0,
+          "sharesNew": 3364000.0,
           "change": 0.0,
-          "weight": 1.3896,
+          "weight": 1.4486,
           "status": "unchanged"
         },
         {
@@ -1612,7 +1576,34 @@
           "sharesPrev": 964000.0,
           "sharesNew": 964000.0,
           "change": 0.0,
-          "weight": 1.3829,
+          "weight": 1.4439,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "6213",
+          "stockName": "聯茂",
+          "sharesPrev": 942000.0,
+          "sharesNew": 942000.0,
+          "change": 0.0,
+          "weight": 1.4254,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "6672",
+          "stockName": "騰輝電子-KY",
+          "sharesPrev": 1175000.0,
+          "sharesNew": 1175000.0,
+          "change": 0.0,
+          "weight": 1.3613,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "6239",
+          "stockName": "力成",
+          "sharesPrev": 2410000.0,
+          "sharesNew": 2410000.0,
+          "change": 0.0,
+          "weight": 1.3589,
           "status": "unchanged"
         },
         {
@@ -1621,16 +1612,7 @@
           "sharesPrev": 3439000.0,
           "sharesNew": 3439000.0,
           "change": 0.0,
-          "weight": 1.3488,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "5274",
-          "stockName": "信驊",
-          "sharesPrev": 35900.0,
-          "sharesNew": 35900.0,
-          "change": 0.0,
-          "weight": 1.2994,
+          "weight": 1.318,
           "status": "unchanged"
         },
         {
@@ -1639,7 +1621,7 @@
           "sharesPrev": 1751000.0,
           "sharesNew": 1751000.0,
           "change": 0.0,
-          "weight": 1.2802,
+          "weight": 1.2959,
           "status": "unchanged"
         },
         {
@@ -1648,25 +1630,16 @@
           "sharesPrev": 5153000.0,
           "sharesNew": 5153000.0,
           "change": 0.0,
-          "weight": 1.2687,
+          "weight": 1.2655,
           "status": "unchanged"
         },
         {
-          "stockCode": "8996",
-          "stockName": "高力",
-          "sharesPrev": 382000.0,
-          "sharesNew": 382000.0,
+          "stockCode": "5274",
+          "stockName": "信驊",
+          "sharesPrev": 35900.0,
+          "sharesNew": 35900.0,
           "change": 0.0,
-          "weight": 1.2581,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "6274",
-          "stockName": "台燿",
-          "sharesPrev": 421000.0,
-          "sharesNew": 421000.0,
-          "change": 0.0,
-          "weight": 1.2474,
+          "weight": 1.2628,
           "status": "unchanged"
         },
         {
@@ -1675,7 +1648,25 @@
           "sharesPrev": 6406000.0,
           "sharesNew": 6406000.0,
           "change": 0.0,
-          "weight": 1.2262,
+          "weight": 1.212,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "8996",
+          "stockName": "高力",
+          "sharesPrev": 382000.0,
+          "sharesNew": 382000.0,
+          "change": 0.0,
+          "weight": 1.2074,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "6274",
+          "stockName": "台燿",
+          "sharesPrev": 421000.0,
+          "sharesNew": 421000.0,
+          "change": 0.0,
+          "weight": 1.173,
           "status": "unchanged"
         },
         {
@@ -1684,7 +1675,7 @@
           "sharesPrev": 2287000.0,
           "sharesNew": 2287000.0,
           "change": 0.0,
-          "weight": 1.1822,
+          "weight": 1.141,
           "status": "unchanged"
         },
         {
@@ -1693,7 +1684,7 @@
           "sharesPrev": 1000000.0,
           "sharesNew": 1000000.0,
           "change": 0.0,
-          "weight": 0.9923,
+          "weight": 0.9471,
           "status": "unchanged"
         },
         {
@@ -1702,7 +1693,7 @@
           "sharesPrev": 150000.0,
           "sharesNew": 150000.0,
           "change": 0.0,
-          "weight": 0.9208,
+          "weight": 0.9317,
           "status": "unchanged"
         },
         {
@@ -1711,7 +1702,7 @@
           "sharesPrev": 400000.0,
           "sharesNew": 400000.0,
           "change": 0.0,
-          "weight": 0.8867,
+          "weight": 0.8713,
           "status": "unchanged"
         },
         {
@@ -1720,7 +1711,7 @@
           "sharesPrev": 1032000.0,
           "sharesNew": 1032000.0,
           "change": 0.0,
-          "weight": 0.8623,
+          "weight": 0.8615,
           "status": "unchanged"
         },
         {
@@ -1729,7 +1720,7 @@
           "sharesPrev": 455000.0,
           "sharesNew": 455000.0,
           "change": 0.0,
-          "weight": 0.7613,
+          "weight": 0.7616,
           "status": "unchanged"
         },
         {
@@ -1738,7 +1729,7 @@
           "sharesPrev": 549000.0,
           "sharesNew": 549000.0,
           "change": 0.0,
-          "weight": 0.6986,
+          "weight": 0.682,
           "status": "unchanged"
         },
         {
@@ -1747,7 +1738,16 @@
           "sharesPrev": 1607000.0,
           "sharesNew": 1607000.0,
           "change": 0.0,
-          "weight": 0.6885,
+          "weight": 0.6813,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "8070",
+          "stockName": "長華*",
+          "sharesPrev": 6343000.0,
+          "sharesNew": 6343000.0,
+          "change": 0.0,
+          "weight": 0.6727,
           "status": "unchanged"
         },
         {
@@ -1756,7 +1756,7 @@
           "sharesPrev": 306000.0,
           "sharesNew": 306000.0,
           "change": 0.0,
-          "weight": 0.3698,
+          "weight": 0.3612,
           "status": "unchanged"
         },
         {
@@ -1765,7 +1765,7 @@
           "sharesPrev": 1022000.0,
           "sharesNew": 1022000.0,
           "change": 0.0,
-          "weight": 0.3485,
+          "weight": 0.3545,
           "status": "unchanged"
         },
         {
@@ -1774,16 +1774,7 @@
           "sharesPrev": 2213556.0,
           "sharesNew": 2213556.0,
           "change": 0.0,
-          "weight": 0.3463,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "3090",
-          "stockName": "日電貿",
-          "sharesPrev": 990000.0,
-          "sharesNew": 990000.0,
-          "change": 0.0,
-          "weight": 0.3344,
+          "weight": 0.3539,
           "status": "unchanged"
         },
         {
@@ -1792,16 +1783,16 @@
           "sharesPrev": 632000.0,
           "sharesNew": 632000.0,
           "change": 0.0,
-          "weight": 0.3287,
+          "weight": 0.3347,
           "status": "unchanged"
         },
         {
-          "stockCode": "2478",
-          "stockName": "大毅",
-          "sharesPrev": 1299000.0,
-          "sharesNew": 1299000.0,
+          "stockCode": "3090",
+          "stockName": "日電貿",
+          "sharesPrev": 990000.0,
+          "sharesNew": 990000.0,
           "change": 0.0,
-          "weight": 0.3239,
+          "weight": 0.3238,
           "status": "unchanged"
         },
         {
@@ -1810,7 +1801,16 @@
           "sharesPrev": 1291000.0,
           "sharesNew": 1291000.0,
           "change": 0.0,
-          "weight": 0.3137,
+          "weight": 0.3142,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "2478",
+          "stockName": "大毅",
+          "sharesPrev": 1299000.0,
+          "sharesNew": 1299000.0,
+          "change": 0.0,
+          "weight": 0.3118,
           "status": "unchanged"
         },
         {
@@ -1819,7 +1819,7 @@
           "sharesPrev": 143000.0,
           "sharesNew": 143000.0,
           "change": 0.0,
-          "weight": 0.2865,
+          "weight": 0.2882,
           "status": "unchanged"
         },
         {
@@ -1828,7 +1828,7 @@
           "sharesPrev": 42000.0,
           "sharesNew": 42000.0,
           "change": 0.0,
-          "weight": 0.111,
+          "weight": 0.11,
           "status": "unchanged"
         },
         {
@@ -1837,7 +1837,7 @@
           "sharesPrev": 194350.0,
           "sharesNew": 194350.0,
           "change": 0.0,
-          "weight": 0.0186,
+          "weight": 0.0191,
           "status": "unchanged"
         },
         {
@@ -1846,7 +1846,7 @@
           "sharesPrev": 1000.0,
           "sharesNew": 1000.0,
           "change": 0.0,
-          "weight": 0.0162,
+          "weight": 0.0168,
           "status": "unchanged"
         },
         {
@@ -1864,16 +1864,7 @@
           "sharesPrev": 4000.0,
           "sharesNew": 4000.0,
           "change": 0.0,
-          "weight": 0.0013,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "8358",
-          "stockName": "金居",
-          "sharesPrev": 1000.0,
-          "sharesNew": 1000.0,
-          "change": 0.0,
-          "weight": 0.0009,
+          "weight": 0.0014,
           "status": "unchanged"
         },
         {
@@ -1882,7 +1873,16 @@
           "sharesPrev": 660.0,
           "sharesNew": 660.0,
           "change": 0.0,
-          "weight": 0.0007,
+          "weight": 0.0008,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "8358",
+          "stockName": "金居",
+          "sharesPrev": 1000.0,
+          "sharesNew": 1000.0,
+          "change": 0.0,
+          "weight": 0.0008,
           "status": "unchanged"
         },
         {
@@ -1908,43 +1908,16 @@
     {
       "code": "00992A",
       "name": "主動群益科技創新",
-      "asOfDate": "2026-10-29",
+      "asOfDate": "2026-10-30",
       "stale": false,
       "holdings": [
-        {
-          "stockCode": "6415",
-          "stockName": "矽力*-KY",
-          "sharesPrev": 0,
-          "sharesNew": 590000.0,
-          "change": 590000.0,
-          "weight": 0.6745,
-          "status": "new"
-        },
-        {
-          "stockCode": "2383",
-          "stockName": "台光電",
-          "sharesPrev": 420000.0,
-          "sharesNew": 505000.0,
-          "change": 85000.0,
-          "weight": 5.5205,
-          "status": "increase"
-        },
-        {
-          "stockCode": "2360",
-          "stockName": "致茂",
-          "sharesPrev": 426000.0,
-          "sharesNew": 413000.0,
-          "change": -13000.0,
-          "weight": 1.7527,
-          "status": "decrease"
-        },
         {
           "stockCode": "2330",
           "stockName": "台積電",
           "sharesPrev": 1246000.0,
           "sharesNew": 1246000.0,
           "change": 0.0,
-          "weight": 6.5658,
+          "weight": 6.6897,
           "status": "unchanged"
         },
         {
@@ -1953,7 +1926,7 @@
           "sharesPrev": 921000.0,
           "sharesNew": 921000.0,
           "change": 0.0,
-          "weight": 6.2399,
+          "weight": 6.4575,
           "status": "unchanged"
         },
         {
@@ -1962,7 +1935,7 @@
           "sharesPrev": 2682000.0,
           "sharesNew": 2682000.0,
           "change": 0.0,
-          "weight": 6.0862,
+          "weight": 6.0089,
           "status": "unchanged"
         },
         {
@@ -1971,7 +1944,16 @@
           "sharesPrev": 1743000.0,
           "sharesNew": 1743000.0,
           "change": 0.0,
-          "weight": 5.876,
+          "weight": 5.6662,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "2383",
+          "stockName": "台光電",
+          "sharesPrev": 505000.0,
+          "sharesNew": 505000.0,
+          "change": 0.0,
+          "weight": 5.3483,
           "status": "unchanged"
         },
         {
@@ -1980,7 +1962,7 @@
           "sharesPrev": 1355000.0,
           "sharesNew": 1355000.0,
           "change": 0.0,
-          "weight": 5.1888,
+          "weight": 4.9574,
           "status": "unchanged"
         },
         {
@@ -1989,16 +1971,7 @@
           "sharesPrev": 1341000.0,
           "sharesNew": 1341000.0,
           "change": 0.0,
-          "weight": 4.9889,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "3008",
-          "stockName": "大立光",
-          "sharesPrev": 323000.0,
-          "sharesNew": 323000.0,
-          "change": 0.0,
-          "weight": 4.0983,
+          "weight": 4.9366,
           "status": "unchanged"
         },
         {
@@ -2007,7 +1980,16 @@
           "sharesPrev": 183000.0,
           "sharesNew": 183000.0,
           "change": 0.0,
-          "weight": 3.9451,
+          "weight": 4.0005,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "3008",
+          "stockName": "大立光",
+          "sharesPrev": 323000.0,
+          "sharesNew": 323000.0,
+          "change": 0.0,
+          "weight": 3.9732,
           "status": "unchanged"
         },
         {
@@ -2016,7 +1998,7 @@
           "sharesPrev": 364000.0,
           "sharesNew": 364000.0,
           "change": 0.0,
-          "weight": 3.8441,
+          "weight": 3.8014,
           "status": "unchanged"
         },
         {
@@ -2025,7 +2007,7 @@
           "sharesPrev": 12620868.0,
           "sharesNew": 12620868.0,
           "change": 0.0,
-          "weight": 3.7728,
+          "weight": 3.6168,
           "status": "unchanged"
         },
         {
@@ -2034,7 +2016,7 @@
           "sharesPrev": 5245000.0,
           "sharesNew": 5245000.0,
           "change": 0.0,
-          "weight": 3.5707,
+          "weight": 3.517,
           "status": "unchanged"
         },
         {
@@ -2043,7 +2025,7 @@
           "sharesPrev": 202000.0,
           "sharesNew": 202000.0,
           "change": 0.0,
-          "weight": 3.3674,
+          "weight": 3.4938,
           "status": "unchanged"
         },
         {
@@ -2052,7 +2034,7 @@
           "sharesPrev": 1157000.0,
           "sharesNew": 1157000.0,
           "change": 0.0,
-          "weight": 3.1557,
+          "weight": 3.119,
           "status": "unchanged"
         },
         {
@@ -2061,7 +2043,7 @@
           "sharesPrev": 1334013.0,
           "sharesNew": 1334013.0,
           "change": 0.0,
-          "weight": 2.7914,
+          "weight": 2.8165,
           "status": "unchanged"
         },
         {
@@ -2070,16 +2052,7 @@
           "sharesPrev": 2740253.0,
           "sharesNew": 2740253.0,
           "change": 0.0,
-          "weight": 2.5621,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "2368",
-          "stockName": "金像電",
-          "sharesPrev": 759000.0,
-          "sharesNew": 759000.0,
-          "change": 0.0,
-          "weight": 1.8466,
+          "weight": 2.5979,
           "status": "unchanged"
         },
         {
@@ -2088,7 +2061,7 @@
           "sharesPrev": 4454000.0,
           "sharesNew": 4454000.0,
           "change": 0.0,
-          "weight": 1.8319,
+          "weight": 1.8515,
           "status": "unchanged"
         },
         {
@@ -2097,16 +2070,16 @@
           "sharesPrev": 440675.0,
           "sharesNew": 440675.0,
           "change": 0.0,
-          "weight": 1.8125,
+          "weight": 1.8069,
           "status": "unchanged"
         },
         {
-          "stockCode": "6213",
-          "stockName": "聯茂",
-          "sharesPrev": 1079000.0,
-          "sharesNew": 1079000.0,
+          "stockCode": "2368",
+          "stockName": "金像電",
+          "sharesPrev": 759000.0,
+          "sharesNew": 759000.0,
           "change": 0.0,
-          "weight": 1.754,
+          "weight": 1.7538,
           "status": "unchanged"
         },
         {
@@ -2115,16 +2088,25 @@
           "sharesPrev": 1884000.0,
           "sharesNew": 1884000.0,
           "change": 0.0,
-          "weight": 1.7348,
+          "weight": 1.7456,
           "status": "unchanged"
         },
         {
-          "stockCode": "6274",
-          "stockName": "台燿",
-          "sharesPrev": 533000.0,
-          "sharesNew": 533000.0,
+          "stockCode": "6213",
+          "stockName": "聯茂",
+          "sharesPrev": 1079000.0,
+          "sharesNew": 1079000.0,
           "change": 0.0,
-          "weight": 1.6165,
+          "weight": 1.6792,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "2360",
+          "stockName": "致茂",
+          "sharesPrev": 413000.0,
+          "sharesNew": 413000.0,
+          "change": 0.0,
+          "weight": 1.6419,
           "status": "unchanged"
         },
         {
@@ -2133,7 +2115,16 @@
           "sharesPrev": 179000.0,
           "sharesNew": 179000.0,
           "change": 0.0,
-          "weight": 1.5798,
+          "weight": 1.5875,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "6274",
+          "stockName": "台燿",
+          "sharesPrev": 533000.0,
+          "sharesNew": 533000.0,
+          "change": 0.0,
+          "weight": 1.5274,
           "status": "unchanged"
         },
         {
@@ -2142,7 +2133,7 @@
           "sharesPrev": 1200000.0,
           "sharesNew": 1200000.0,
           "change": 0.0,
-          "weight": 1.3615,
+          "weight": 1.3211,
           "status": "unchanged"
         },
         {
@@ -2151,7 +2142,7 @@
           "sharesPrev": 32000.0,
           "sharesNew": 32000.0,
           "change": 0.0,
-          "weight": 1.1856,
+          "weight": 1.1577,
           "status": "unchanged"
         },
         {
@@ -2160,7 +2151,7 @@
           "sharesPrev": 755000.0,
           "sharesNew": 755000.0,
           "change": 0.0,
-          "weight": 1.1251,
+          "weight": 1.1425,
           "status": "unchanged"
         },
         {
@@ -2169,7 +2160,7 @@
           "sharesPrev": 69000.0,
           "sharesNew": 69000.0,
           "change": 0.0,
-          "weight": 0.9643,
+          "weight": 0.9871,
           "status": "unchanged"
         },
         {
@@ -2178,16 +2169,7 @@
           "sharesPrev": 567000.0,
           "sharesNew": 567000.0,
           "change": 0.0,
-          "weight": 0.9489,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "3081",
-          "stockName": "聯亞",
-          "sharesPrev": 138000.0,
-          "sharesNew": 138000.0,
-          "change": 0.0,
-          "weight": 0.7753,
+          "weight": 0.9081,
           "status": "unchanged"
         },
         {
@@ -2196,7 +2178,25 @@
           "sharesPrev": 278000.0,
           "sharesNew": 278000.0,
           "change": 0.0,
-          "weight": 0.7643,
+          "weight": 0.7494,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "3081",
+          "stockName": "聯亞",
+          "sharesPrev": 138000.0,
+          "sharesNew": 138000.0,
+          "change": 0.0,
+          "weight": 0.7409,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "6415",
+          "stockName": "矽力*-KY",
+          "sharesPrev": 590000.0,
+          "sharesNew": 590000.0,
+          "change": 0.0,
+          "weight": 0.6709,
           "status": "unchanged"
         },
         {
@@ -2205,7 +2205,7 @@
           "sharesPrev": 200000.0,
           "sharesNew": 200000.0,
           "change": 0.0,
-          "weight": 0.6458,
+          "weight": 0.6048,
           "status": "unchanged"
         },
         {
@@ -2214,7 +2214,7 @@
           "sharesPrev": 57000.0,
           "sharesNew": 57000.0,
           "change": 0.0,
-          "weight": 0.5789,
+          "weight": 0.5894,
           "status": "unchanged"
         },
         {
@@ -2223,16 +2223,7 @@
           "sharesPrev": 351000.0,
           "sharesNew": 351000.0,
           "change": 0.0,
-          "weight": 0.5093,
-          "status": "unchanged"
-        },
-        {
-          "stockCode": "8150",
-          "stockName": "南茂",
-          "sharesPrev": 2032000.0,
-          "sharesNew": 2032000.0,
-          "change": 0.0,
-          "weight": 0.4309,
+          "weight": 0.5057,
           "status": "unchanged"
         },
         {
@@ -2241,16 +2232,16 @@
           "sharesPrev": 206000.0,
           "sharesNew": 206000.0,
           "change": 0.0,
-          "weight": 0.427,
+          "weight": 0.4228,
           "status": "unchanged"
         },
         {
-          "stockCode": "2404",
-          "stockName": "漢唐",
-          "sharesPrev": 166000.0,
-          "sharesNew": 166000.0,
+          "stockCode": "8150",
+          "stockName": "南茂",
+          "sharesPrev": 2032000.0,
+          "sharesNew": 2032000.0,
           "change": 0.0,
-          "weight": 0.4002,
+          "weight": 0.4184,
           "status": "unchanged"
         },
         {
@@ -2259,7 +2250,16 @@
           "sharesPrev": 534000.0,
           "sharesNew": 534000.0,
           "change": 0.0,
-          "weight": 0.3996,
+          "weight": 0.4064,
+          "status": "unchanged"
+        },
+        {
+          "stockCode": "2404",
+          "stockName": "漢唐",
+          "sharesPrev": 166000.0,
+          "sharesNew": 166000.0,
+          "change": 0.0,
+          "weight": 0.4042,
           "status": "unchanged"
         },
         {
@@ -2268,7 +2268,7 @@
           "sharesPrev": 152952.0,
           "sharesNew": 152952.0,
           "change": 0.0,
-          "weight": 0.3938,
+          "weight": 0.388,
           "status": "unchanged"
         },
         {
@@ -2277,7 +2277,7 @@
           "sharesPrev": 693000.0,
           "sharesNew": 693000.0,
           "change": 0.0,
-          "weight": 0.381,
+          "weight": 0.3775,
           "status": "unchanged"
         },
         {
@@ -2286,7 +2286,7 @@
           "sharesPrev": 500000.0,
           "sharesNew": 500000.0,
           "change": 0.0,
-          "weight": 0.258,
+          "weight": 0.2497,
           "status": "unchanged"
         },
         {
@@ -2295,7 +2295,7 @@
           "sharesPrev": 629000.0,
           "sharesNew": 629000.0,
           "change": 0.0,
-          "weight": 0.2147,
+          "weight": 0.2051,
           "status": "unchanged"
         },
         {
@@ -2304,7 +2304,7 @@
           "sharesPrev": 1000.0,
           "sharesNew": 1000.0,
           "change": 0.0,
-          "weight": 0.0043,
+          "weight": 0.0042,
           "status": "unchanged"
         }
       ]
@@ -2313,40 +2313,52 @@
   "crossFundSignals": {
     "coBuy": [
       {
-        "stockCode": "5274",
-        "stockName": "信驊",
-        "count": 2,
+        "stockCode": "3711",
+        "stockName": "日月光投控",
+        "count": 3,
         "funds": [
           {
             "code": "00981A",
             "status": "increase",
-            "change": 15000.0,
-            "weight": 1.49
+            "change": 1644000.0,
+            "weight": 3.42
           },
           {
             "code": "00403A",
             "status": "increase",
-            "change": 10000.0,
-            "weight": 2.39
+            "change": 300000.0,
+            "weight": 0.86
+          },
+          {
+            "code": "00991A",
+            "status": "increase",
+            "change": 600000.0,
+            "weight": 2.979
           }
         ]
       },
       {
-        "stockCode": "3711",
-        "stockName": "日月光投控",
-        "count": 2,
+        "stockCode": "3017",
+        "stockName": "奇鋐",
+        "count": 3,
         "funds": [
+          {
+            "code": "00981A",
+            "status": "increase",
+            "change": 79000.0,
+            "weight": 7.72
+          },
           {
             "code": "00403A",
             "status": "increase",
-            "change": 400000.0,
-            "weight": 0.69
+            "change": 40000.0,
+            "weight": 5.89
           },
           {
-            "code": "00982A",
+            "code": "00991A",
             "status": "increase",
-            "change": 400000.0,
-            "weight": 1.9713
+            "change": 30000.0,
+            "weight": 6.578
           }
         ]
       }

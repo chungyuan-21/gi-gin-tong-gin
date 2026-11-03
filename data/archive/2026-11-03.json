@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04 01:45:48",
+  "updatedAt": "2026-11-04 04:46:50",
   "etfs": [
     {
       "code": "00981A",
@@ -1388,7 +1388,7 @@
       "code": "00982A",
       "name": "主動群益台灣強棒",
       "asOfDate": "2026-11-03",
-      "stale": false,
+      "stale": true,
       "holdings": [
         {
           "stockCode": "6213",
